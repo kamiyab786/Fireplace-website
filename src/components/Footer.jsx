@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom'; // 1. Import useLocation
 import { Flame, Facebook, Instagram, Twitter, Send, Phone, MapPin, Clock } from 'lucide-react';
-import { SITE_DATA } from '../data/constants';
+import { SITE_DATA } from '../data/Constants';
 
 const Footer = () => {
   const location = useLocation(); // 2. Get current path
