@@ -177,8 +177,8 @@ const ProductPage = () => {
     async function fetchData() {
       try {
         const [prodRes, catRes] = await Promise.all([
-          fetch('public/data/products.json'),
-          fetch('public/data/categories.json')
+          fetch('/Fireplace-website/public/data/products.json'),
+          fetch('/Fireplace-website/public/data/categories.json')
         ]);
         const products = await prodRes.json();
         const categories = await catRes.json();
