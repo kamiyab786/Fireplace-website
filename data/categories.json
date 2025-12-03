@@ -1,0 +1,5051 @@
+[{
+  "_id": {
+    "$oid": "66a3bca59727bf34c24a77c3"
+  },
+  "internalId": 157367561,
+  "path": "Fireplaces",
+  "isAvailable": true,
+  "description": "",
+  "title": "Fireplaces",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914032426.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Fireplaces-c157367561"
+},
+{
+  "_id": {
+    "$oid": "66a3bca59727bf34c24a77c4"
+  },
+  "internalId": 157367562,
+  "path": "Fireplaces / ELECTRIC / Amantii",
+  "isAvailable": true,
+  "description": "",
+  "title": "Amantii",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3905867010.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Amantii-c157367562",
+  "parentCat": "Fireplaces / ELECTRIC"
+},
+{
+  "_id": {
+    "$oid": "66a3bca59727bf34c24a77c5"
+  },
+  "internalId": 157368664,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair",
+  "isAvailable": true,
+  "description": "<p style=\"text-align: center;\"><a href=\"https://firebuilder.travisindustries.com/#/select\" target=\"_blank\" style=\"-webkit-tap-highlight-color: transparent;\"><span style=\"font-weight: 600; -webkit-tap-highlight-color: transparent;\"><span style=\"-webkit-tap-highlight-color: transparent; color: rgb(192, 80, 77);\"><span style=\"font-size: 16px;\">Click Here to Build your own fireplace</span></span></span></a></p>",
+  "title": "Xtrordinair",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3905857386.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Xtrordinair-c157368664",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bca59727bf34c24a77c6"
+  },
+  "internalId": 157378551,
+  "path": "Luxury Mantels",
+  "isAvailable": false,
+  "description": "",
+  "title": "Luxury Mantels",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3905868877.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Luxury-Mantels-c157378551"
+},
+{
+  "_id": {
+    "$oid": "66a3bca69727bf34c24a77c7"
+  },
+  "internalId": 157378632,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven",
+  "isAvailable": true,
+  "description": "",
+  "title": "ALFA Pizza Oven",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3905867012.webp",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/ALFA-Pizza-Oven-c157378632",
+  "parentCat": "Outdoor Kitchen"
+},
+{
+  "_id": {
+    "$oid": "66a3bca69727bf34c24a77c8"
+  },
+  "internalId": 157378633,
+  "path": "Outdoor Kitchen / Napoleon Barbeque",
+  "isAvailable": true,
+  "description": "",
+  "title": "Napoleon Barbeque",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3905856714.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Napoleon-Barbeque-c157378633",
+  "parentCat": "Outdoor Kitchen"
+},
+{
+  "_id": {
+    "$oid": "66a3bca69727bf34c24a77c9"
+  },
+  "internalId": 157378634,
+  "path": "Fireplaces / LUXURY GAS / Town Country",
+  "isAvailable": true,
+  "description": "<p style=\"text-align: center;\"><strong><span style=\"color: rgb(192, 80, 77);\"><span style=\"font-size: 20px;\"><a href=\"https://www.townandcountryfireplaces.com/design-your-fireplace/\" target=\"_blank\"><span style=\"color: rgb(192, 80, 77);\">Click Here to build your own fireplace</span></a></span></span></strong></p>",
+  "title": "Town & Country",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3905863918.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Town-&-Country-c157378634",
+  "parentCat": "Fireplaces / LUXURY GAS"
+},
+{
+  "_id": {
+    "$oid": "66a3bca69727bf34c24a77ca"
+  },
+  "internalId": 157378635,
+  "path": "Fireplaces / ELECTRIC / Modern Flames",
+  "isAvailable": true,
+  "description": "",
+  "title": "Modern Flames",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3905863182.png",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Modern-Flames-c157378635",
+  "parentCat": "Fireplaces / ELECTRIC"
+},
+{
+  "_id": {
+    "$oid": "66a3bca69727bf34c24a77cb"
+  },
+  "internalId": 157379056,
+  "path": "Outdoor Kitchen",
+  "isAvailable": true,
+  "description": "",
+  "title": "Outdoor Kitchen",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3905876293.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Outdoor-Kitchen-c157379056"
+},
+{
+  "_id": {
+    "$oid": "66a3bca69727bf34c24a77cc"
+  },
+  "internalId": 157379057,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Enviro",
+  "isAvailable": true,
+  "description": "<p \"=\"\" style=\"text-align: center;\"><a href=\"https://enviro.com/resources/fireplace-builder/\" target=\"_blank\"><strong><span style=\"color: rgb(192, 80, 77);\"><span style=\"font-size: 16px;\">Click Here to build your own fireplace!</span></span><span style=\"background-color: rgb(192, 80, 77);\"></span></strong></a></p>",
+  "title": "Enviro",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3905856700.png",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Enviro-c157379057",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bca79727bf34c24a77cd"
+  },
+  "internalId": 157380066,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Marquis",
+  "isAvailable": true,
+  "description": "",
+  "title": "Marquis",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3904005761.png",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Marquis-c157380066",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bca79727bf34c24a77ce"
+  },
+  "internalId": 157380135,
+  "path": "Fireplaces / ELECTRIC / Dimplex",
+  "isAvailable": true,
+  "description": "",
+  "title": "Dimplex",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3905855998.webp",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Dimplex-c157380135",
+  "parentCat": "Fireplaces / ELECTRIC"
+},
+{
+  "_id": {
+    "$oid": "66a3bca79727bf34c24a77cf"
+  },
+  "internalId": 157387309,
+  "path": "Fireplaces / LUXURY GAS / Urbana",
+  "isAvailable": true,
+  "description": "<p style=\"text-align: center;\"><strong><span style=\"color: rgb(192, 80, 77);\"><a href=\"https://urbanafireplaces.com/fireplace-builder/\" target=\"_blank\"><span style=\"color: rgb(192, 80, 77);\"><span style=\"font-size: 20px;\">Click Here to build your own fireplace</span></span></a></span></strong></p>",
+  "title": "Urbana",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3904017062.png",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Urbana-c157387309",
+  "parentCat": "Fireplaces / LUXURY GAS"
+},
+{
+  "_id": {
+    "$oid": "66a3bca79727bf34c24a77d0"
+  },
+  "internalId": 157387310,
+  "path": "Fireplaces / LUXURY GAS / Davinci",
+  "isAvailable": true,
+  "description": "",
+  "title": "Davinci",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3905863771.png",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Davinci-c157387310",
+  "parentCat": "Fireplaces / LUXURY GAS"
+},
+{
+  "_id": {
+    "$oid": "66a3bca79727bf34c24a77d1"
+  },
+  "internalId": 157407760,
+  "path": "Luxury Mantels / Lyonstone",
+  "isAvailable": true,
+  "description": "",
+  "title": "Lyonstone",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4064903939.png",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Lyonstone-c157407760",
+  "parentCat": "Luxury Mantels"
+},
+{
+  "_id": {
+    "$oid": "66a3bca79727bf34c24a77d2"
+  },
+  "internalId": 157582519,
+  "path": "Fireplaces / LUXURY GAS / Urbana / U30",
+  "isAvailable": true,
+  "description": "",
+  "title": "U30",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3913833894.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/U30-c157582519",
+  "parentCat": "Fireplaces / LUXURY GAS / Urbana"
+},
+{
+  "_id": {
+    "$oid": "66a3bca89727bf34c24a77d3"
+  },
+  "internalId": 157586521,
+  "path": "Fireplaces / LUXURY GAS / Urbana / U70",
+  "isAvailable": true,
+  "description": "",
+  "title": "U70",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3913846781.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/U70-c157586521",
+  "parentCat": "Fireplaces / LUXURY GAS / Urbana"
+},
+{
+  "_id": {
+    "$oid": "66a3bca89727bf34c24a77d4"
+  },
+  "internalId": 157599501,
+  "path": "Fireplaces / LUXURY GAS / Urbana / U50",
+  "isAvailable": true,
+  "description": "",
+  "title": "U50",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3913833896.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/U50-c157599501",
+  "parentCat": "Fireplaces / LUXURY GAS / Urbana"
+},
+{
+  "_id": {
+    "$oid": "66a3bca89727bf34c24a77d5"
+  },
+  "internalId": 157601264,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Enviro / C series",
+  "isAvailable": true,
+  "description": "",
+  "title": "C series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914045593.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/C-series-c157601264",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Enviro"
+},
+{
+  "_id": {
+    "$oid": "66a3bca89727bf34c24a77d6"
+  },
+  "internalId": 157603505,
+  "path": "Fireplaces / LUXURY GAS / Urbana / U37",
+  "isAvailable": true,
+  "description": "",
+  "title": "U37",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3913852010.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/U37-c157603505",
+  "parentCat": "Fireplaces / LUXURY GAS / Urbana"
+},
+{
+  "_id": {
+    "$oid": "66a3bca89727bf34c24a77d7"
+  },
+  "internalId": 157603506,
+  "path": "Fireplaces / LUXURY GAS / Urbana / U44",
+  "isAvailable": true,
+  "description": "",
+  "title": "U44",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3913842841.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/U44-c157603506",
+  "parentCat": "Fireplaces / LUXURY GAS / Urbana"
+},
+{
+  "_id": {
+    "$oid": "66a3bca89727bf34c24a77d8"
+  },
+  "internalId": 157603513,
+  "path": "Fireplaces / LUXURY GAS / Urbana / Tall",
+  "isAvailable": true,
+  "description": "",
+  "title": "Tall",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3913837189.jpg",
+  "order": 80,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Tall-c157603513",
+  "parentCat": "Fireplaces / LUXURY GAS / Urbana"
+},
+{
+  "_id": {
+    "$oid": "66a3bca99727bf34c24a77d9"
+  },
+  "internalId": 157603762,
+  "path": "Fireplaces / LUXURY GAS / Urbana / Outdoor",
+  "isAvailable": true,
+  "description": "",
+  "title": "Outdoor",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3913842855.jpg",
+  "order": 90,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Outdoor-c157603762",
+  "parentCat": "Fireplaces / LUXURY GAS / Urbana"
+},
+{
+  "_id": {
+    "$oid": "66a3bca99727bf34c24a77da"
+  },
+  "internalId": 157629847,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro / Gas Insert / E20",
+  "isAvailable": true,
+  "description": "",
+  "title": "E20",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914447784.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/E20-c157629847",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro / Gas Insert"
+},
+{
+  "_id": {
+    "$oid": "66a3bca99727bf34c24a77db"
+  },
+  "internalId": 157632619,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Prestige Pro",
+  "isAvailable": true,
+  "description": "",
+  "title": "Prestige Pro",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914511000.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Prestige-Pro-c157632619",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bca99727bf34c24a77dc"
+  },
+  "internalId": 157632624,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Marquis / Bentley",
+  "isAvailable": true,
+  "description": "",
+  "title": "Bentley",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914431420.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Bentley-c157632624",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Marquis"
+},
+{
+  "_id": {
+    "$oid": "66a3bca99727bf34c24a77dd"
+  },
+  "internalId": 157632627,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro / Gas Insert / E25",
+  "isAvailable": true,
+  "description": "",
+  "title": "E25",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914435602.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/E25-c157632627",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro / Gas Insert"
+},
+{
+  "_id": {
+    "$oid": "66a3bca99727bf34c24a77de"
+  },
+  "internalId": 157632628,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro / Gas Insert / EX32 35",
+  "isAvailable": true,
+  "description": "",
+  "title": "EX32, 35",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914431418.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/EX32-35-c157632628",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro / Gas Insert"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaa9727bf34c24a77df"
+  },
+  "internalId": 157633094,
+  "path": "Fireplaces / GAS",
+  "isAvailable": true,
+  "description": "",
+  "title": "GAS",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914045103.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/GAS-c157633094",
+  "parentCat": "Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaa9727bf34c24a77e0"
+  },
+  "internalId": 157633124,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Marquis / Enclave",
+  "isAvailable": true,
+  "description": "",
+  "title": "Enclave",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914455523.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Enclave-c157633124",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Marquis"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaa9727bf34c24a77e1"
+  },
+  "internalId": 157633127,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro / Gas Insert / E30",
+  "isAvailable": true,
+  "description": "",
+  "title": "E30",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914434136.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/E30-c157633127",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro / Gas Insert"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaa9727bf34c24a77e2"
+  },
+  "internalId": 157635809,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro / Gas Insert",
+  "isAvailable": true,
+  "description": "",
+  "title": "Gas Insert",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914038972.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Gas-Insert-c157635809",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaa9727bf34c24a77e3"
+  },
+  "internalId": 157635841,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Built-In",
+  "isAvailable": true,
+  "description": "",
+  "title": "Built-In",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914504010.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Built-In-c157635841",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaa9727bf34c24a77e4"
+  },
+  "internalId": 157639075,
+  "path": "Fireplaces / ELECTRIC",
+  "isAvailable": true,
+  "description": "",
+  "title": "ELECTRIC",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3993647919.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/ELECTRIC-c157639075",
+  "parentCat": "Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bcab9727bf34c24a77e5"
+  },
+  "internalId": 157639076,
+  "path": "Fireplaces / ELECTRIC / Dimplex / IgniteXL",
+  "isAvailable": true,
+  "description": "",
+  "title": "IgniteXL",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914045579.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/IgniteXL-c157639076",
+  "parentCat": "Fireplaces / ELECTRIC / Dimplex"
+},
+{
+  "_id": {
+    "$oid": "66a3bcab9727bf34c24a77e6"
+  },
+  "internalId": 157639120,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro / Gas Insert / E33",
+  "isAvailable": true,
+  "description": "",
+  "title": "E33",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914431416.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/E33-c157639120",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro / Gas Insert"
+},
+{
+  "_id": {
+    "$oid": "66a3bcad9727bf34c24a77e7"
+  },
+  "internalId": 157640299,
+  "path": "Fireplaces / ELECTRIC / Dimplex / IgniteXL Bold",
+  "isAvailable": true,
+  "description": "",
+  "title": "IgniteXL Bold",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914038951.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/IgniteXL-Bold-c157640299",
+  "parentCat": "Fireplaces / ELECTRIC / Dimplex"
+},
+{
+  "_id": {
+    "$oid": "66a3bcad9727bf34c24a77e8"
+  },
+  "internalId": 157640311,
+  "path": "Fireplaces / ELECTRIC / Dimplex / Multi Fire",
+  "isAvailable": true,
+  "description": "",
+  "title": "Multi Fire",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914056040.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Multi-Fire-c157640311",
+  "parentCat": "Fireplaces / ELECTRIC / Dimplex"
+},
+{
+  "_id": {
+    "$oid": "66a3bcad9727bf34c24a77e9"
+  },
+  "internalId": 157640312,
+  "path": "Fireplaces / ELECTRIC / Dimplex / Opti-myst",
+  "isAvailable": true,
+  "description": "",
+  "title": "Opti-myst",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914032474.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Opti-myst-c157640312",
+  "parentCat": "Fireplaces / ELECTRIC / Dimplex"
+},
+{
+  "_id": {
+    "$oid": "66a3bcad9727bf34c24a77ea"
+  },
+  "internalId": 157640333,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Built-in Prestige Pro",
+  "isAvailable": true,
+  "description": "",
+  "title": "Built-in Prestige Pro",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3914504012.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Built-in-Prestige-Pro-c157640333",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcad9727bf34c24a77eb"
+  },
+  "internalId": 157705075,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Outdoor Kitchen Accessories (components)",
+  "isAvailable": true,
+  "description": "",
+  "title": "Outdoor Kitchen Accessories (components)",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3915919441.webp",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Outdoor-Kitchen-Accessories-components-c157705075",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcae9727bf34c24a77ec"
+  },
+  "internalId": 157705098,
+  "path": "Fireplaces / ELECTRIC / Dimplex / Revillusion",
+  "isAvailable": true,
+  "description": "",
+  "title": "Revillusion",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3916115543.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Revillusion-c157705098",
+  "parentCat": "Fireplaces / ELECTRIC / Dimplex"
+},
+{
+  "_id": {
+    "$oid": "66a3bcae9727bf34c24a77ed"
+  },
+  "internalId": 157705321,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Built-In Side Burners",
+  "isAvailable": true,
+  "description": "",
+  "title": "Built-In Side Burners",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3915907722.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Built-In-Side-Burners-c157705321",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcae9727bf34c24a77ee"
+  },
+  "internalId": 157705371,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Savannah Heating",
+  "isAvailable": true,
+  "description": "",
+  "title": "Savannah Heating",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4140777643.png",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Savannah-Heating-c157705371",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bcae9727bf34c24a77ef"
+  },
+  "internalId": 157705372,
+  "path": "Fireplaces / ELECTRIC / Simplifire",
+  "isAvailable": true,
+  "description": "",
+  "title": "Simplifire",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3916168469.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Simplifire-c157705372",
+  "parentCat": "Fireplaces / ELECTRIC"
+},
+{
+  "_id": {
+    "$oid": "66a3bcae9727bf34c24a77f0"
+  },
+  "internalId": 157707393,
+  "path": "Outdoor Kitchen / Saber Barbeque",
+  "isAvailable": false,
+  "description": "",
+  "title": "Saber Barbeque",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3916214761.png",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Saber-Barbeque-c157707393",
+  "parentCat": "Outdoor Kitchen"
+},
+{
+  "_id": {
+    "$oid": "66a3bcae9727bf34c24a77f1"
+  },
+  "internalId": 157708084,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Oasis Compact Series",
+  "isAvailable": true,
+  "description": "<p style=\"text-align: left;\"><a href=\"https://www.napoleon.com/en/oasis-compact-3dar-experience\" target=\"_blank\"><strong><span style=\"color: rgb(192, 80, 77);\"><span style=\"font-size: 20px;\">Click Here for the AR View</span></span></strong></a></p>",
+  "title": "Oasis Compact Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3916049926.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Oasis-Compact-Series-c157708084",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaf9727bf34c24a77f2"
+  },
+  "internalId": 157708109,
+  "path": "Fireplaces / ELECTRIC / Dimplex / Ignite Evolve",
+  "isAvailable": true,
+  "description": "",
+  "title": "Ignite Evolve",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3916115541.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Ignite-Evolve-c157708109",
+  "parentCat": "Fireplaces / ELECTRIC / Dimplex"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaf9727bf34c24a77f3"
+  },
+  "internalId": 157708129,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Kozy Heat",
+  "isAvailable": true,
+  "description": "<p style=\"text-align: center;\"><strong><span style=\"font-size: 18px;\"><span style=\"color: rgb(192, 80, 77);\"><a href=\"https://www.kozyheatgallery.com/build-your-own-fireplace\" target=\"_blank\"><span style=\"color: rgb(192, 80, 77);\">Click Here to Build Your Fireplace</span></a></span></span></strong><strong></strong></p>",
+  "title": "Kozy Heat",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3916195066.webp",
+  "order": 80,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Kozy-Heat-c157708129",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaf9727bf34c24a77f4"
+  },
+  "internalId": 157712629,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Enviro / G series",
+  "isAvailable": true,
+  "description": "",
+  "title": "G series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3918537452.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/G-series-c157712629",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Enviro"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaf9727bf34c24a77f5"
+  },
+  "internalId": 157713560,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Oasis",
+  "isAvailable": true,
+  "description": "",
+  "title": "Oasis",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3915907729.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Oasis-c157713560",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaf9727bf34c24a77f6"
+  },
+  "internalId": 157714845,
+  "path": "Outdoor Fire Features / Barbara Jean Outdoor Fireplaces",
+  "isAvailable": true,
+  "description": "",
+  "title": "Barbara Jean Outdoor Fireplaces",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3936063272.png",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Barbara-Jean-Outdoor-Fireplaces-c157714845",
+  "parentCat": "Outdoor Fire Features"
+},
+{
+  "_id": {
+    "$oid": "66a3bcaf9727bf34c24a77f7"
+  },
+  "internalId": 157716849,
+  "path": "Outdoor Kitchen / Fire Magic Barbeque",
+  "isAvailable": false,
+  "description": "",
+  "title": "Fire Magic Barbeque",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3918558111.png",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Fire-Magic-Barbeque-c157716849",
+  "parentCat": "Outdoor Kitchen"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb09727bf34c24a77f8"
+  },
+  "internalId": 157716875,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair / 564 Series",
+  "isAvailable": true,
+  "description": "",
+  "title": "564 Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917646456.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/564-Series-c157716875",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb09727bf34c24a77f9"
+  },
+  "internalId": 157716876,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair / 864 Series",
+  "isAvailable": true,
+  "description": "",
+  "title": "864 Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917648668.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/864-Series-c157716876",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb09727bf34c24a77fa"
+  },
+  "internalId": 157744915,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Single Sided",
+  "isAvailable": true,
+  "description": "",
+  "title": "Single Sided",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917612357.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Single-Sided-c157744915",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb09727bf34c24a77fb"
+  },
+  "internalId": 157744930,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / See Thru / 60",
+  "isAvailable": true,
+  "description": "",
+  "title": "60",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917636044.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/60-c157744930",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / See Thru"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb09727bf34c24a77fc"
+  },
+  "internalId": 157744947,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Savannah Heating / Infinity",
+  "isAvailable": true,
+  "description": "",
+  "title": "Infinity",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917744095.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Infinity-c157744947",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Savannah Heating"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb09727bf34c24a77fd"
+  },
+  "internalId": 157745327,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Single Sided / 48",
+  "isAvailable": true,
+  "description": "",
+  "title": "48",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917609180.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/48-c157745327",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Single Sided"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb19727bf34c24a77fe"
+  },
+  "internalId": 157745330,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Right Corner / 78",
+  "isAvailable": true,
+  "description": "",
+  "title": "78",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917613659.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/78-c157745330",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Right Corner"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb19727bf34c24a77ff"
+  },
+  "internalId": 157745340,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Island",
+  "isAvailable": true,
+  "description": "",
+  "title": "Island",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917624540.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Island-c157745340",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb19727bf34c24a7800"
+  },
+  "internalId": 157745469,
+  "path": "Fireplaces / ELECTRIC / Modern Flames / Orion Traditional",
+  "isAvailable": true,
+  "description": "",
+  "title": "Orion Traditional",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3918504700.webp",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Orion-Traditional-c157745469",
+  "parentCat": "Fireplaces / ELECTRIC / Modern Flames"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb19727bf34c24a7801"
+  },
+  "internalId": 157745470,
+  "path": "Fireplaces / ELECTRIC / Modern Flames / Orion Slim / Accessories",
+  "isAvailable": false,
+  "description": "",
+  "title": "Accessories",
+  "image": "",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Accessories-c157745470",
+  "parentCat": "Fireplaces / ELECTRIC / Modern Flames / Orion Slim"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb19727bf34c24a7802"
+  },
+  "internalId": 157746550,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Single Sided / 84",
+  "isAvailable": true,
+  "description": "",
+  "title": "84",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917613627.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/84-c157746550",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Single Sided"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb29727bf34c24a7803"
+  },
+  "internalId": 157746552,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Left Corner",
+  "isAvailable": true,
+  "description": "",
+  "title": "Left Corner",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917604902.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Left-Corner-c157746552",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb29727bf34c24a7804"
+  },
+  "internalId": 157746553,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Right Corner / 54",
+  "isAvailable": true,
+  "description": "",
+  "title": "54",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917612367.webp",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/54-c157746553",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Right Corner"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb29727bf34c24a7805"
+  },
+  "internalId": 157746557,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Bay Linear / 60",
+  "isAvailable": true,
+  "description": "",
+  "title": "60",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917654276.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/60-c157746557",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Bay Linear"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb29727bf34c24a7806"
+  },
+  "internalId": 157746558,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Bay Linear / 72",
+  "isAvailable": true,
+  "description": "",
+  "title": "72",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917652326.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/72-c157746558",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Bay Linear"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb29727bf34c24a7807"
+  },
+  "internalId": 157748768,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Left Corner / 66",
+  "isAvailable": true,
+  "description": "",
+  "title": "66",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917607435.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/66-c157748768",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Left Corner"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb29727bf34c24a7808"
+  },
+  "internalId": 157748769,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Left Corner / 78",
+  "isAvailable": true,
+  "description": "",
+  "title": "78",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917614547.png",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/78-c157748769",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Left Corner"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb39727bf34c24a7809"
+  },
+  "internalId": 157748775,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Island / 60",
+  "isAvailable": true,
+  "description": "",
+  "title": "60",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917629525.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/60-c157748775",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Island"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb39727bf34c24a780a"
+  },
+  "internalId": 157748776,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Island / 72",
+  "isAvailable": true,
+  "description": "",
+  "title": "72",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917629527.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/72-c157748776",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Island"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb39727bf34c24a780b"
+  },
+  "internalId": 157748777,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / See Thru / 48",
+  "isAvailable": true,
+  "description": "",
+  "title": "48",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917623438.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/48-c157748777",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / See Thru"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb39727bf34c24a780c"
+  },
+  "internalId": 157748779,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair / 4415 Series",
+  "isAvailable": true,
+  "description": "",
+  "title": "4415 Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917642229.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/4415-c157748779",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb39727bf34c24a780d"
+  },
+  "internalId": 157748901,
+  "path": "Fireplaces / ELECTRIC / Modern Flames / Landscape Pro Slim",
+  "isAvailable": true,
+  "description": "",
+  "title": "Landscape Pro Slim",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3918550800.png",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Landscape-Pro-Slim-c157748901",
+  "parentCat": "Fireplaces / ELECTRIC / Modern Flames"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb39727bf34c24a780e"
+  },
+  "internalId": 157748902,
+  "path": "Fireplaces / ELECTRIC / Modern Flames / Orion Slim",
+  "isAvailable": true,
+  "description": "",
+  "title": "Orion Slim",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3918516379.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Orion-Slim-c157748902",
+  "parentCat": "Fireplaces / ELECTRIC / Modern Flames"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb49727bf34c24a780f"
+  },
+  "internalId": 157749558,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Island / 84",
+  "isAvailable": false,
+  "description": "",
+  "title": "84",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917623409.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/84-c157749558",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Island"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb49727bf34c24a7810"
+  },
+  "internalId": 157749559,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / See Thru / 72",
+  "isAvailable": true,
+  "description": "",
+  "title": "72",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917623440.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/72-c157749559",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / See Thru"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb49727bf34c24a7811"
+  },
+  "internalId": 157749705,
+  "path": "Fireplaces / ELECTRIC / Modern Flames / Landscape Pro Multi Series",
+  "isAvailable": true,
+  "description": "",
+  "title": "Landscape Pro Multi Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3918548813.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Landscape-Pro-Multi-Series-c157749705",
+  "parentCat": "Fireplaces / ELECTRIC / Modern Flames"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb49727bf34c24a7812"
+  },
+  "internalId": 157749706,
+  "path": "Fireplaces / ELECTRIC / Modern Flames / Orion Multi",
+  "isAvailable": true,
+  "description": "",
+  "title": "Orion Multi",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3918487036.png",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Orion-Multi-c157749706",
+  "parentCat": "Fireplaces / ELECTRIC / Modern Flames"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb49727bf34c24a7813"
+  },
+  "internalId": 157749772,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Single Sided / 60",
+  "isAvailable": true,
+  "description": "",
+  "title": "60",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917613625.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/60-c157749772",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Single Sided"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb49727bf34c24a7814"
+  },
+  "internalId": 157749773,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Single Sided / 72",
+  "isAvailable": true,
+  "description": "",
+  "title": "72",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917609182.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/72-c157749773",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Single Sided"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb59727bf34c24a7815"
+  },
+  "internalId": 157749776,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Left Corner / 54",
+  "isAvailable": true,
+  "description": "",
+  "title": "54",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917612082.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/54-c157749776",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Left Corner"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb59727bf34c24a7816"
+  },
+  "internalId": 157749778,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Right Corner",
+  "isAvailable": true,
+  "description": "",
+  "title": "Right Corner",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917609232.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Right-Corner-c157749778",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb59727bf34c24a7817"
+  },
+  "internalId": 157749784,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Bay Linear",
+  "isAvailable": true,
+  "description": "",
+  "title": "Bay Linear",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917612389.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Bay-Linear-c157749784",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb59727bf34c24a7818"
+  },
+  "internalId": 157749786,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Island / 48",
+  "isAvailable": true,
+  "description": "",
+  "title": "48",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917624721.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/48-c157749786",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Island"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb59727bf34c24a7819"
+  },
+  "internalId": 157749804,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Savannah Heating / Galaxy",
+  "isAvailable": true,
+  "description": "",
+  "title": "Galaxy",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917754134.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Galaxy-c157749804",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Savannah Heating"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb59727bf34c24a781a"
+  },
+  "internalId": 157749908,
+  "path": "Fireplaces / ELECTRIC / Modern Flames / Redstone Series",
+  "isAvailable": true,
+  "description": "",
+  "title": "Redstone Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3918512998.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Redstone-Series-c157749908",
+  "parentCat": "Fireplaces / ELECTRIC / Modern Flames"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb69727bf34c24a781b"
+  },
+  "internalId": 157750038,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Bay Linear / 84",
+  "isAvailable": true,
+  "description": "",
+  "title": "84",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917650404.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/84-c157750038",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Bay Linear"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb69727bf34c24a781c"
+  },
+  "internalId": 157750040,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / See Thru / 84",
+  "isAvailable": true,
+  "description": "",
+  "title": "84",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917623444.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/84-c157750040",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / See Thru"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb69727bf34c24a781d"
+  },
+  "internalId": 157750284,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / Right Corner / 66",
+  "isAvailable": true,
+  "description": "",
+  "title": "66",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917609208.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/66-c157750284",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom / Right Corner"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb69727bf34c24a781e"
+  },
+  "internalId": 157750303,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom / See Thru",
+  "isAvailable": true,
+  "description": "",
+  "title": "See Thru",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917637753.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/See-Thru-c157750303",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci / Custom"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb69727bf34c24a781f"
+  },
+  "internalId": 157750305,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair / 3615 Series",
+  "isAvailable": true,
+  "description": "",
+  "title": "3615 Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3917651770.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/3615-Series-c157750305",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb69727bf34c24a7820"
+  },
+  "internalId": 157819048,
+  "path": "Fireplaces / ELECTRIC / Amantii / Symmetry",
+  "isAvailable": true,
+  "description": "",
+  "title": "Symmetry",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921293688.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Symmetry-c157819048",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb79727bf34c24a7821"
+  },
+  "internalId": 157819049,
+  "path": "Fireplaces / ELECTRIC / Amantii / Symmetry / Smart",
+  "isAvailable": true,
+  "description": "",
+  "title": "Smart",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921305515.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Smart-c157819049",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii / Symmetry"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb79727bf34c24a7822"
+  },
+  "internalId": 157819050,
+  "path": "Fireplaces / ELECTRIC / Amantii / Symmetry / XT Bespoke",
+  "isAvailable": true,
+  "description": "",
+  "title": "XT Bespoke",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921293978.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/XT-Bespoke-c157819050",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii / Symmetry"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb79727bf34c24a7823"
+  },
+  "internalId": 157819057,
+  "path": "Outdoor Fire Features / Dekko Fire Tables",
+  "isAvailable": false,
+  "description": "",
+  "title": "Dekko Fire Tables",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921303210.webp",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Dekko-Fire-Tables-c157819057",
+  "parentCat": "Outdoor Fire Features"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb79727bf34c24a7824"
+  },
+  "internalId": 157819104,
+  "path": "MISC / Duravent / Pipe Lengths",
+  "isAvailable": true,
+  "description": "",
+  "title": "Pipe Lengths",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921965482.webp",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Pipe-Lengths-c157819104",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb79727bf34c24a7825"
+  },
+  "internalId": 157819105,
+  "path": "MISC / Duravent / Attic insulation Shield",
+  "isAvailable": true,
+  "description": "",
+  "title": "Attic insulation Shield",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924085106.webp",
+  "order": 190,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Attic-insulation-Shield-c157819105",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb79727bf34c24a7826"
+  },
+  "internalId": 157819106,
+  "path": "MISC / Duravent / Flashing / Adjustable Roof Flashing",
+  "isAvailable": true,
+  "description": "",
+  "title": "Adjustable Roof Flashing",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924120307.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Adjustable-Roof-Flashing-c157819106",
+  "parentCat": "MISC / Duravent / Flashing"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb89727bf34c24a7827"
+  },
+  "internalId": 157819107,
+  "path": "MISC / Duravent / Storm Collar",
+  "isAvailable": true,
+  "description": "",
+  "title": "Storm Collar",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093837.jpg",
+  "order": 280,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Storm-Collar-c157819107",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb89727bf34c24a7828"
+  },
+  "internalId": 157819108,
+  "path": "MISC / Duravent / Cap / Sconce Termination Cap",
+  "isAvailable": true,
+  "description": "",
+  "title": "Sconce Termination Cap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924126272.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Sconce-Termination-Cap-c157819108",
+  "parentCat": "MISC / Duravent / Cap"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb89727bf34c24a7829"
+  },
+  "internalId": 157819109,
+  "path": "MISC / Duravent / Flashing",
+  "isAvailable": true,
+  "description": "",
+  "title": "Flashing",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093603.jpg",
+  "order": 320,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Flashing-c157819109",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb89727bf34c24a782a"
+  },
+  "internalId": 157819111,
+  "path": "MISC / Duravent / Cap / Extended Vertical Termination Cap",
+  "isAvailable": true,
+  "description": "",
+  "title": "Extended Vertical Termination Cap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924115820.webp",
+  "order": 100,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Extended-Vertical-Termination-Cap-c157819111",
+  "parentCat": "MISC / Duravent / Cap"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb89727bf34c24a782b"
+  },
+  "internalId": 157820062,
+  "path": "Fireplaces / ELECTRIC / Amantii / TRV View / Slim",
+  "isAvailable": true,
+  "description": "",
+  "title": "Slim",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921303120.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Slim-c157820062",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii / TRV View"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb89727bf34c24a782c"
+  },
+  "internalId": 157820066,
+  "path": "Fireplaces / ELECTRIC / Amantii / Symmetry / Bespoke",
+  "isAvailable": true,
+  "description": "",
+  "title": "Bespoke",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921303149.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Bespoke-c157820066",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii / Symmetry"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb99727bf34c24a782d"
+  },
+  "internalId": 157820074,
+  "path": "Outdoor Fire Features / Dekko Fire Tables / Table Top Lids",
+  "isAvailable": true,
+  "description": "",
+  "title": "Table Top Lids",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921422950.webp",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Table-Top-Lids-c157820074",
+  "parentCat": "Outdoor Fire Features / Dekko Fire Tables"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb99727bf34c24a782e"
+  },
+  "internalId": 157820081,
+  "path": "Outdoor Kitchen / Fire Magic Barbeque / Echelon Diamond Portable",
+  "isAvailable": true,
+  "description": "",
+  "title": "Echelon Diamond Portable",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921960064.png",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Echelon-Diamond-Portable-c157820081",
+  "parentCat": "Outdoor Kitchen / Fire Magic Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb99727bf34c24a782f"
+  },
+  "internalId": 157820105,
+  "path": "MISC / Duravent / Universal Wall Thumble",
+  "isAvailable": true,
+  "description": "",
+  "title": "Universal Wall Thumble",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921976641.jpg",
+  "order": 120,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Universal-Wall-Thumble-c157820105",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb99727bf34c24a7830"
+  },
+  "internalId": 157820106,
+  "path": "MISC / Duravent / Vinyl Siding Standoff Box",
+  "isAvailable": true,
+  "description": "",
+  "title": "Vinyl Siding Standoff Box",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924085089.jpg",
+  "order": 160,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Vinyl-Siding-Standoff-Box-c157820106",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb99727bf34c24a7831"
+  },
+  "internalId": 157820107,
+  "path": "MISC / Duravent / Flashing / Counter Flashing",
+  "isAvailable": true,
+  "description": "",
+  "title": "Counter Flashing",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924119831.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Counter-Flashing-c157820107",
+  "parentCat": "MISC / Duravent / Flashing"
+},
+{
+  "_id": {
+    "$oid": "66a3bcb99727bf34c24a7832"
+  },
+  "internalId": 157820108,
+  "path": "MISC / Duravent / Cap / Round Horizontal Termination Cap",
+  "isAvailable": true,
+  "description": "",
+  "title": "Round Horizontal Termination Cap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924126255.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Round-Horizontal-Termination-Cap-c157820108",
+  "parentCat": "MISC / Duravent / Cap"
+},
+{
+  "_id": {
+    "$oid": "66a3bcba9727bf34c24a7833"
+  },
+  "internalId": 157820109,
+  "path": "MISC / Duravent / Cap",
+  "isAvailable": true,
+  "description": "",
+  "title": "Cap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093841.jpg",
+  "order": 310,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Cap-c157820109",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcba9727bf34c24a7834"
+  },
+  "internalId": 157820113,
+  "path": "MISC / Duravent / Additional Accessories",
+  "isAvailable": true,
+  "description": "",
+  "title": "Additional Accessories",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093861.jpg",
+  "order": 390,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Additional-Accessories-c157820113",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcba9727bf34c24a7835"
+  },
+  "internalId": 157822555,
+  "path": "Fireplaces / ELECTRIC / Amantii / TRV View / Bespoke",
+  "isAvailable": true,
+  "description": "",
+  "title": "Bespoke",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921296347.png",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Bespoke-c157822555",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii / TRV View"
+},
+{
+  "_id": {
+    "$oid": "66a3bcba9727bf34c24a7836"
+  },
+  "internalId": 157822591,
+  "path": "MISC / Duravent / Elbow Strap",
+  "isAvailable": true,
+  "description": "",
+  "title": "Elbow Strap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921980815.jpg",
+  "order": 80,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Elbow-Strap-c157822591",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcba9727bf34c24a7837"
+  },
+  "internalId": 157822592,
+  "path": "MISC / Duravent / Decorative Cover",
+  "isAvailable": true,
+  "description": "",
+  "title": "Decorative Cover",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921980529.jpg",
+  "order": 90,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Decorative-Cover-c157822592",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcba9727bf34c24a7838"
+  },
+  "internalId": 157822593,
+  "path": "MISC / Duravent / Wall Thumble",
+  "isAvailable": true,
+  "description": "",
+  "title": "Wall Thumble",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921976629.webp",
+  "order": 110,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Wall-Thumble-c157822593",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbb9727bf34c24a7839"
+  },
+  "internalId": 157822594,
+  "path": "MISC / Duravent / Wall Firestop",
+  "isAvailable": true,
+  "description": "",
+  "title": "Wall Firestop",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921980834.jpg",
+  "order": 130,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Wall-Firestop-c157822594",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbb9727bf34c24a783a"
+  },
+  "internalId": 157822595,
+  "path": "MISC / Duravent / Ceiling Firestop",
+  "isAvailable": true,
+  "description": "",
+  "title": "Ceiling Firestop",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093594.webp",
+  "order": 180,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Ceiling-Firestop-c157822595",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbb9727bf34c24a783b"
+  },
+  "internalId": 157822596,
+  "path": "MISC / Duravent / Roof Support",
+  "isAvailable": true,
+  "description": "",
+  "title": "Roof Support",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093601.jpg",
+  "order": 220,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Roof-Support-c157822596",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbb9727bf34c24a783c"
+  },
+  "internalId": 157822597,
+  "path": "MISC / Duravent / Flashing / Steep Roof Flashing",
+  "isAvailable": true,
+  "description": "",
+  "title": "Steep Roof Flashing",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924116815.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Steep-Roof-Flashing-c157822597",
+  "parentCat": "MISC / Duravent / Flashing"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbb9727bf34c24a783d"
+  },
+  "internalId": 157822598,
+  "path": "MISC / Duravent / Co-Axial to Co-Linear Appliance Connector for Masonry Relining - Use 3 Flex Extension",
+  "isAvailable": true,
+  "description": "",
+  "title": "Co-Axial to Co-Linear Appliance Connector for Masonry Relining - Use 3\" Flex Extension",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924085129.webp",
+  "order": 350,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Co-Axial-to-Co-Linear-Appliance-Connector-for-Masonry-Relining-Use-3-Flex-Extension-c157822598",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbb9727bf34c24a783e"
+  },
+  "internalId": 157825040,
+  "path": "Fireplaces / ELECTRIC / Amantii / Traditional / Bespoke",
+  "isAvailable": true,
+  "description": "",
+  "title": "Bespoke",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921296318.png",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Bespoke-c157825040",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii / Traditional"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbc9727bf34c24a783f"
+  },
+  "internalId": 157825046,
+  "path": "Fireplaces / ELECTRIC / Amantii / Symmetry / Smart XT",
+  "isAvailable": true,
+  "description": "",
+  "title": "Smart XT",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921306535.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Smart-XT-c157825046",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii / Symmetry"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbc9727bf34c24a7840"
+  },
+  "internalId": 157825067,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Kozy Heat / Chaska",
+  "isAvailable": true,
+  "description": "",
+  "title": "Chaska",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921957306.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Chaska-c157825067",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Kozy Heat"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbc9727bf34c24a7841"
+  },
+  "internalId": 157825068,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Kozy Heat / Callaway",
+  "isAvailable": true,
+  "description": "",
+  "title": "Callaway",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921938462.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Callaway-c157825068",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Kozy Heat"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbc9727bf34c24a7842"
+  },
+  "internalId": 157825069,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Kozy Heat / Nordik",
+  "isAvailable": true,
+  "description": "",
+  "title": "Nordik",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921959009.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Nordik-c157825069",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Kozy Heat"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbc9727bf34c24a7843"
+  },
+  "internalId": 157825080,
+  "path": "MISC / Duravent / Vinyl Siding Standoff Kit",
+  "isAvailable": true,
+  "description": "",
+  "title": "Vinyl Siding Standoff Kit",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093761.jpg",
+  "order": 150,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Vinyl-Siding-Standoff-Kit-c157825080",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbc9727bf34c24a7844"
+  },
+  "internalId": 157825081,
+  "path": "MISC / Duravent / Restrictor Disk",
+  "isAvailable": true,
+  "description": "",
+  "title": "Restrictor Disk",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093830.jpg",
+  "order": 210,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Restrictor-Disk-c157825081",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbd9727bf34c24a7845"
+  },
+  "internalId": 157825082,
+  "path": "MISC / Duravent / Reducer",
+  "isAvailable": true,
+  "description": "",
+  "title": "Reducer",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924085133.webp",
+  "order": 380,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Reducer-c157825082",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbd9727bf34c24a7846"
+  },
+  "internalId": 157825083,
+  "path": "MISC / Duravent / Concentric Flex Lengths",
+  "isAvailable": true,
+  "description": "",
+  "title": "Concentric Flex Lengths",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093113.webp",
+  "order": 420,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Concentric-Flex-Lengths-c157825083",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbd9727bf34c24a7847"
+  },
+  "internalId": 157825275,
+  "path": "Fireplaces / ELECTRIC / Amantii / Traditional",
+  "isAvailable": true,
+  "description": "",
+  "title": "Traditional",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921303003.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Traditional-c157825275",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbd9727bf34c24a7848"
+  },
+  "internalId": 157825279,
+  "path": "Fireplaces / ELECTRIC / Amantii / TRV View",
+  "isAvailable": true,
+  "description": "",
+  "title": "TRV View",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921295935.webp",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/TRV-View-c157825279",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbd9727bf34c24a7849"
+  },
+  "internalId": 157825280,
+  "path": "Fireplaces / ELECTRIC / Amantii / TRV View / XL Deep",
+  "isAvailable": true,
+  "description": "",
+  "title": "XL Deep",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921299168.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/XL-Deep-c157825280",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii / TRV View"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbd9727bf34c24a784a"
+  },
+  "internalId": 157825294,
+  "path": "Outdoor Kitchen / Fire Magic Barbeque / Echelon Diamond Built In",
+  "isAvailable": true,
+  "description": "",
+  "title": "Echelon Diamond Built In",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921960343.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Echelon-Diamond-Built-In-c157825294",
+  "parentCat": "Outdoor Kitchen / Fire Magic Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbe9727bf34c24a784b"
+  },
+  "internalId": 157825300,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Kozy Heat / Bellingham",
+  "isAvailable": true,
+  "description": "",
+  "title": "Bellingham",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921938464.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Bellingham-c157825300",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Kozy Heat"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbe9727bf34c24a784c"
+  },
+  "internalId": 157825325,
+  "path": "MISC",
+  "isAvailable": false,
+  "description": "",
+  "title": "MISC",
+  "image": "",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/MISC-c157825325"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbe9727bf34c24a784d"
+  },
+  "internalId": 157825326,
+  "path": "MISC / Duravent / Horizontal Termination Kit",
+  "isAvailable": true,
+  "description": "",
+  "title": "Horizontal Termination Kit",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921980793.webp",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Horizontal-Termination-Kit-c157825326",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbe9727bf34c24a784e"
+  },
+  "internalId": 157825327,
+  "path": "MISC / Duravent / Adjustable Pipe Length",
+  "isAvailable": true,
+  "description": "",
+  "title": "Adjustable Pipe Length",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921976833.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Adjustable-Pipe-Length-c157825327",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbe9727bf34c24a784f"
+  },
+  "internalId": 157825328,
+  "path": "MISC / Duravent / Wall Strap",
+  "isAvailable": true,
+  "description": "",
+  "title": "Wall Strap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093083.webp",
+  "order": 200,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Wall-Strap-c157825328",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbe9727bf34c24a7850"
+  },
+  "internalId": 157825329,
+  "path": "MISC / Duravent / Flashing / Flat Roof Flashing",
+  "isAvailable": true,
+  "description": "",
+  "title": "Flat Roof Flashing",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924126291.webp",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Flat-Roof-Flashing-c157825329",
+  "parentCat": "MISC / Duravent / Flashing"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbe9727bf34c24a7851"
+  },
+  "internalId": 157825330,
+  "path": "MISC / Duravent / Horizontal Windguard",
+  "isAvailable": true,
+  "description": "",
+  "title": "Horizontal Windguard",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924097025.webp",
+  "order": 330,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Horizontal-Windguard-c157825330",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbf9727bf34c24a7852"
+  },
+  "internalId": 157825332,
+  "path": "MISC / Duravent / Appliance Adapter",
+  "isAvailable": true,
+  "description": "",
+  "title": "Appliance Adapter",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093852.jpg",
+  "order": 370,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Appliance-Adapter-c157825332",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbf9727bf34c24a7853"
+  },
+  "internalId": 157825333,
+  "path": "MISC / Duravent / Direct Vent Factory-Built Reline Kit",
+  "isAvailable": true,
+  "description": "",
+  "title": "Direct Vent Factory-Built Reline Kit",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093863.jpg",
+  "order": 410,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Direct-Vent-Factory-Built-Reline-Kit-c157825333",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbf9727bf34c24a7854"
+  },
+  "internalId": 157827300,
+  "path": "Fireplaces / ELECTRIC / Amantii / TRV View / XT XL",
+  "isAvailable": true,
+  "description": "",
+  "title": "XT XL",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921293730.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/XT-XL-c157827300",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii / TRV View"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbf9727bf34c24a7855"
+  },
+  "internalId": 157827303,
+  "path": "Outdoor Fire Features / Dekko Fire Tables / Weather Covers",
+  "isAvailable": true,
+  "description": "",
+  "title": "Weather Covers",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921435319.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Weather-Covers-c157827303",
+  "parentCat": "Outdoor Fire Features / Dekko Fire Tables"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbf9727bf34c24a7856"
+  },
+  "internalId": 157827335,
+  "path": "MISC / Duravent / Elbows",
+  "isAvailable": true,
+  "description": "",
+  "title": "Elbows",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921976620.jpg",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Elbows-c157827335",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcbf9727bf34c24a7857"
+  },
+  "internalId": 157827336,
+  "path": "MISC / Duravent / Flashing / Dead Soft Aluminum Flashings",
+  "isAvailable": true,
+  "description": "",
+  "title": "Dead Soft Aluminum Flashings",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924116806.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Dead-Soft-Aluminum-Flashings-c157827336",
+  "parentCat": "MISC / Duravent / Flashing"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc09727bf34c24a7858"
+  },
+  "internalId": 157827337,
+  "path": "MISC / Duravent / Cap / High Wind Sconce Termination Cap",
+  "isAvailable": true,
+  "description": "",
+  "title": "High Wind Sconce Termination Cap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924115804.webp",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/High-Wind-Sconce-Termination-Cap-c157827337",
+  "parentCat": "MISC / Duravent / Cap"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc09727bf34c24a7859"
+  },
+  "internalId": 157827338,
+  "path": "MISC / Duravent / Cap / Square Horizontal H2 Termination Cap",
+  "isAvailable": true,
+  "description": "",
+  "title": "Square Horizontal H2 Termination Cap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924120027.webp",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Square-Horizontal-H2-Termination-Cap-c157827338",
+  "parentCat": "MISC / Duravent / Cap"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc09727bf34c24a785a"
+  },
+  "internalId": 157827339,
+  "path": "MISC / Duravent / Vertical Wind Guard",
+  "isAvailable": true,
+  "description": "",
+  "title": "Vertical Wind Guard",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924093100.jpg",
+  "order": 340,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Vertical-Wind-Guard-c157827339",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc09727bf34c24a785b"
+  },
+  "internalId": 157827340,
+  "path": "MISC / Duravent / Co-Linear Kit wFlex",
+  "isAvailable": true,
+  "description": "",
+  "title": "Co-Linear Kit w/ Flex",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924085140.jpg",
+  "order": 400,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Co-Linear-Kit-w-Flex-c157827340",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc09727bf34c24a785c"
+  },
+  "internalId": 157832293,
+  "path": "Outdoor Fire Features / Dekko Fire Tables / Outdoor Fire Pits",
+  "isAvailable": true,
+  "description": "",
+  "title": "Outdoor Fire Pits",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921434574.webp",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Outdoor-Fire-Pits-c157832293",
+  "parentCat": "Outdoor Fire Features / Dekko Fire Tables"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc09727bf34c24a785d"
+  },
+  "internalId": 157832294,
+  "path": "Outdoor Fire Features / Dekko Fire Tables / Additional Accessories",
+  "isAvailable": true,
+  "description": "",
+  "title": "Additional Accessories",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921438565.webp",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Additional-Accessories-c157832294",
+  "parentCat": "Outdoor Fire Features / Dekko Fire Tables"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc19727bf34c24a785e"
+  },
+  "internalId": 157832330,
+  "path": "MISC / Duravent",
+  "isAvailable": true,
+  "description": "",
+  "title": "Duravent",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921953234.png",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Duravent-c157832330",
+  "parentCat": "MISC"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc19727bf34c24a785f"
+  },
+  "internalId": 157832331,
+  "path": "MISC / Duravent / Chimney Conversion Kit",
+  "isAvailable": true,
+  "description": "",
+  "title": "Chimney Conversion Kit",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921965480.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Chimney-Conversion-Kit-c157832331",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc19727bf34c24a7860"
+  },
+  "internalId": 157832332,
+  "path": "MISC / Duravent / Pipe Extensions",
+  "isAvailable": true,
+  "description": "",
+  "title": "Pipe Extensions",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921976616.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Pipe-Extensions-c157832332",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc19727bf34c24a7861"
+  },
+  "internalId": 157832333,
+  "path": "MISC / Duravent / Cathedral Ceiling Support Box",
+  "isAvailable": true,
+  "description": "",
+  "title": "Cathedral Ceiling Support Box",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921965224.webp",
+  "order": 100,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Cathedral-Ceiling-Support-Box-c157832333",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc19727bf34c24a7862"
+  },
+  "internalId": 157832334,
+  "path": "MISC / Duravent / Vinyl Siding Standoff",
+  "isAvailable": true,
+  "description": "",
+  "title": "Vinyl Siding Standoff",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921965226.jpg",
+  "order": 140,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Vinyl-Siding-Standoff-c157832334",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc19727bf34c24a7863"
+  },
+  "internalId": 157832336,
+  "path": "MISC / Duravent / Cap / Square Horizontal Termination Cap",
+  "isAvailable": true,
+  "description": "",
+  "title": "Square Horizontal Termination Cap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924120255.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Square-Horizontal-Termination-Cap-c157832336",
+  "parentCat": "MISC / Duravent / Cap"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc29727bf34c24a7864"
+  },
+  "internalId": 157832337,
+  "path": "MISC / Duravent / Cap / Snorkel Termination Cap",
+  "isAvailable": true,
+  "description": "",
+  "title": "Snorkel Termination Cap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924126284.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Snorkel-Termination-Cap-c157832337",
+  "parentCat": "MISC / Duravent / Cap"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc29727bf34c24a7865"
+  },
+  "internalId": 157832339,
+  "path": "MISC / Duravent / Cap / High-Wind Termination Cap",
+  "isAvailable": true,
+  "description": "",
+  "title": "High-Wind Termination Cap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924119822.jpg",
+  "order": 80,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/High-Wind-Termination-Cap-c157832339",
+  "parentCat": "MISC / Duravent / Cap"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc29727bf34c24a7866"
+  },
+  "internalId": 157832340,
+  "path": "MISC / Duravent / Cap / Low-Profile Termination Cap",
+  "isAvailable": true,
+  "description": "",
+  "title": "Low-Profile Termination Cap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924116377.jpg",
+  "order": 90,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Low-Profile-Termination-Cap-c157832340",
+  "parentCat": "MISC / Duravent / Cap"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc29727bf34c24a7867"
+  },
+  "internalId": 157832790,
+  "path": "Fireplaces / ELECTRIC / Amantii / Traditional / Smart",
+  "isAvailable": true,
+  "description": "",
+  "title": "Smart",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921299129.png",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Smart-c157832790",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii / Traditional"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc29727bf34c24a7868"
+  },
+  "internalId": 157832792,
+  "path": "Fireplaces / ELECTRIC / Amantii / Free Stand",
+  "isAvailable": false,
+  "description": "",
+  "title": "Free Stand",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921294412.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Free-Stand-c157832792",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc29727bf34c24a7869"
+  },
+  "internalId": 157832832,
+  "path": "MISC / Duravent / Masonry Chimney Conversion Kit",
+  "isAvailable": true,
+  "description": "",
+  "title": "Masonry Chimney Conversion Kit",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3921960247.webp",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Masonry-Chimney-Conversion-Kit-c157832832",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc39727bf34c24a786a"
+  },
+  "internalId": 157832833,
+  "path": "MISC / Duravent / Cap / Snorkel H2 Termination Cap",
+  "isAvailable": true,
+  "description": "",
+  "title": "Snorkel H2 Termination Cap",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924115811.webp",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Snorkel-H2-Termination-Cap-c157832833",
+  "parentCat": "MISC / Duravent / Cap"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc39727bf34c24a786b"
+  },
+  "internalId": 157832836,
+  "path": "MISC / Duravent / Chimney Liner Termination Kit",
+  "isAvailable": true,
+  "description": "",
+  "title": "Chimney Liner Termination Kit",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3924085131.jpg",
+  "order": 360,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Chimney-Liner-Termination-Kit-c157832836",
+  "parentCat": "MISC / Duravent"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc39727bf34c24a786c"
+  },
+  "internalId": 157863340,
+  "path": "Fireplaces / ELECTRIC / Simplifire / Electric Insert",
+  "isAvailable": true,
+  "description": "",
+  "title": "Electric Insert",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3923568715.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Electric-Insert-c157863340",
+  "parentCat": "Fireplaces / ELECTRIC / Simplifire"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc39727bf34c24a786d"
+  },
+  "internalId": 157863567,
+  "path": "Fireplaces / ELECTRIC / Simplifire / Scion",
+  "isAvailable": true,
+  "description": "",
+  "title": "Scion",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3936088761.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Scion-c157863567",
+  "parentCat": "Fireplaces / ELECTRIC / Simplifire"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc39727bf34c24a786e"
+  },
+  "internalId": 157863571,
+  "path": "Fireplaces / ELECTRIC / Simplifire / Electric Built In",
+  "isAvailable": true,
+  "description": "",
+  "title": "Electric Built In",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3923577584.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Electric-Built-In-c157863571",
+  "parentCat": "Fireplaces / ELECTRIC / Simplifire"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc39727bf34c24a786f"
+  },
+  "internalId": 157863599,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Delray Square",
+  "isAvailable": true,
+  "description": "",
+  "title": "Delray Square",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925423132.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Delray-Square-c157863599",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc49727bf34c24a7870"
+  },
+  "internalId": 157864341,
+  "path": "Fireplaces / ELECTRIC / Simplifire / Wall Mount",
+  "isAvailable": true,
+  "description": "",
+  "title": "Wall Mount",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3936075191.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Wall-Mount-c157864341",
+  "parentCat": "Fireplaces / ELECTRIC / Simplifire"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc49727bf34c24a7871"
+  },
+  "internalId": 157864342,
+  "path": "Fireplaces / ELECTRIC / Simplifire / Allusion",
+  "isAvailable": true,
+  "description": "",
+  "title": "Allusion",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3923575599.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Allusion-c157864342",
+  "parentCat": "Fireplaces / ELECTRIC / Simplifire"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc49727bf34c24a7872"
+  },
+  "internalId": 157864343,
+  "path": "Fireplaces / ELECTRIC / Simplifire / Scion Trinity",
+  "isAvailable": true,
+  "description": "",
+  "title": "Scion Trinity",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3923556479.webp",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Scion-Trinity-c157864343",
+  "parentCat": "Fireplaces / ELECTRIC / Simplifire"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc49727bf34c24a7873"
+  },
+  "internalId": 157864364,
+  "path": "Fireplaces / LUXURY GAS",
+  "isAvailable": true,
+  "description": "",
+  "title": "LUXURY GAS",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3923916636.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/LUXURY-GAS-c157864364",
+  "parentCat": "Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc49727bf34c24a7874"
+  },
+  "internalId": 157864551,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo",
+  "isAvailable": true,
+  "description": "",
+  "title": "Montigo",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3923375869.webp",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Montigo-c157864551",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc49727bf34c24a7875"
+  },
+  "internalId": 157877828,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Delray Series",
+  "isAvailable": true,
+  "description": "",
+  "title": "Delray Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925424740.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Delray-Series-c157877828",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc59727bf34c24a7876"
+  },
+  "internalId": 157877829,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Venting",
+  "isAvailable": false,
+  "description": "",
+  "title": "Venting",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925421824.webp",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Venting-c157877829",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc59727bf34c24a7877"
+  },
+  "internalId": 157948053,
+  "path": "Outdoor Kitchen / Saber Barbeque / Built-In Grills / Premium Built In Grills",
+  "isAvailable": true,
+  "description": "",
+  "title": "Premium Built In Grills",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925540587.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Premium-Built-In-Grills-c157948053",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Built-In Grills"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc59727bf34c24a7878"
+  },
+  "internalId": 157948054,
+  "path": "Outdoor Kitchen / Saber Barbeque / Side Burners / Elite Side Burners",
+  "isAvailable": true,
+  "description": "",
+  "title": "Elite Side Burners",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925541605.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Elite-Side-Burners-c157948054",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Side Burners"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc59727bf34c24a7879"
+  },
+  "internalId": 157948055,
+  "path": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components / Refrigeration",
+  "isAvailable": true,
+  "description": "",
+  "title": "Refrigeration",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925540696.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Refrigeration-c157948055",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc59727bf34c24a787a"
+  },
+  "internalId": 157948870,
+  "path": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components / Rotisserie",
+  "isAvailable": true,
+  "description": "",
+  "title": "Rotisserie",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925538428.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Rotisserie-c157948870",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc59727bf34c24a787b"
+  },
+  "internalId": 157951566,
+  "path": "Outdoor Kitchen / Saber Barbeque / Cart Grill / Deluxe Saber Grills",
+  "isAvailable": true,
+  "description": "",
+  "title": "Deluxe Saber Grills",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925490751.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Deluxe-Saber-Grills-c157951566",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Cart Grill"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc69727bf34c24a787c"
+  },
+  "internalId": 157951567,
+  "path": "Outdoor Kitchen / Saber Barbeque / Cart Grill",
+  "isAvailable": true,
+  "description": "",
+  "title": "Cart Grill",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925521232.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Cart-Grill-c157951567",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc69727bf34c24a787d"
+  },
+  "internalId": 157951568,
+  "path": "Outdoor Kitchen / Saber Barbeque / Built-In Grills",
+  "isAvailable": true,
+  "description": "",
+  "title": "Built-In Grills",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925521236.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Built-In-Grills-c157951568",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc69727bf34c24a787e"
+  },
+  "internalId": 157953061,
+  "path": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components",
+  "isAvailable": true,
+  "description": "",
+  "title": "Outdoor Kitchen Components",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925527998.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Outdoor-Kitchen-Components-c157953061",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc69727bf34c24a787f"
+  },
+  "internalId": 157953062,
+  "path": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components / Cabinetry",
+  "isAvailable": true,
+  "description": "",
+  "title": "Cabinetry",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925542781.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Cabinetry-c157953062",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc69727bf34c24a7880"
+  },
+  "internalId": 157953308,
+  "path": "Outdoor Kitchen / Saber Barbeque / Cart Grill / Premium Saber Grills",
+  "isAvailable": true,
+  "description": "",
+  "title": "Premium Saber Grills",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925490778.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Premium-Saber-Grills-c157953308",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Cart Grill"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc69727bf34c24a7881"
+  },
+  "internalId": 157953309,
+  "path": "Outdoor Kitchen / Saber Barbeque / Side Burners / Premium Side Burners",
+  "isAvailable": true,
+  "description": "",
+  "title": "Premium Side Burners",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925534129.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Premium-Side-Burners-c157953309",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Side Burners"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc79727bf34c24a7882"
+  },
+  "internalId": 157953310,
+  "path": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components / Cleaners",
+  "isAvailable": true,
+  "description": "",
+  "title": "Cleaners",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925542793.jpg",
+  "order": 90,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Cleaners-c157953310",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc79727bf34c24a7883"
+  },
+  "internalId": 157953311,
+  "path": "Outdoor Kitchen / Saber Barbeque / Built-In Grills / Elite Built In Grills",
+  "isAvailable": true,
+  "description": "",
+  "title": "Elite Built In Grills",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925538798.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Elite-Built-In-Grills-c157953311",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Built-In Grills"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc79727bf34c24a7884"
+  },
+  "internalId": 157953312,
+  "path": "Outdoor Kitchen / Saber Barbeque / Cart Grill / Deluxe Saber Grills / Graphite End Caps and Stainless Hood",
+  "isAvailable": true,
+  "description": "",
+  "title": "Graphite End Caps and Stainless Hood",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925479350.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Graphite-End-Caps-and-Stainless-Hood-c157953312",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Cart Grill / Deluxe Saber Grills"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc79727bf34c24a7885"
+  },
+  "internalId": 157956816,
+  "path": "Outdoor Kitchen / Saber Barbeque / Side Burners",
+  "isAvailable": true,
+  "description": "",
+  "title": "Side Burners",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925541014.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Side-Burners-c157956816",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc79727bf34c24a7886"
+  },
+  "internalId": 157956818,
+  "path": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components / Tools",
+  "isAvailable": true,
+  "description": "",
+  "title": "Tools",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925541639.webp",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Tools-c157956818",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc79727bf34c24a7887"
+  },
+  "internalId": 157959549,
+  "path": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components / Grilling Accessories",
+  "isAvailable": true,
+  "description": "",
+  "title": "Grilling Accessories",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925534184.jpg",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Grilling-Accessories-c157959549",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc89727bf34c24a7888"
+  },
+  "internalId": 157959552,
+  "path": "Outdoor Kitchen / Saber Barbeque / Cart Grill / Deluxe Saber Grills / Black End Caps and Black Enamel Hood",
+  "isAvailable": true,
+  "description": "",
+  "title": "Black End Caps and Black Enamel Hood",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925463706.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Black-End-Caps-and-Black-Enamel-Hood-c157959552",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Cart Grill / Deluxe Saber Grills"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc89727bf34c24a7889"
+  },
+  "internalId": 157959553,
+  "path": "Outdoor Kitchen / Saber Barbeque / Conversion Kits",
+  "isAvailable": true,
+  "description": "",
+  "title": "Conversion Kits",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925486787.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Conversion-Kits-c157959553",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc89727bf34c24a788a"
+  },
+  "internalId": 157959554,
+  "path": "Outdoor Kitchen / Saber Barbeque / Saber Covers",
+  "isAvailable": true,
+  "description": "",
+  "title": "Saber Covers",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925463713.webp",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Saber-Covers-c157959554",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc89727bf34c24a788b"
+  },
+  "internalId": 157962049,
+  "path": "Outdoor Kitchen / Saber Barbeque / Cart Grill / Select Gas Grills",
+  "isAvailable": true,
+  "description": "",
+  "title": "Select Gas Grills",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925466871.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Select-Gas-Grills-c157962049",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Cart Grill"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc89727bf34c24a788c"
+  },
+  "internalId": 157962050,
+  "path": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components / Liners and Trim Kits",
+  "isAvailable": true,
+  "description": "",
+  "title": "Liners and Trim Kits",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925541093.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Liners-and-Trim-Kits-c157962050",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc89727bf34c24a788d"
+  },
+  "internalId": 157962051,
+  "path": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components / Thermometer",
+  "isAvailable": true,
+  "description": "",
+  "title": "Thermometer",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925534175.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Thermometer-c157962051",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc99727bf34c24a788e"
+  },
+  "internalId": 157962052,
+  "path": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components / Grill Brushes",
+  "isAvailable": true,
+  "description": "",
+  "title": "Grill Brushes",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3925541641.jpg",
+  "order": 80,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Grill-Brushes-c157962052",
+  "parentCat": "Outdoor Kitchen / Saber Barbeque / Outdoor Kitchen Components"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc99727bf34c24a788f"
+  },
+  "internalId": 158272794,
+  "path": "Fireplaces / ELECTRIC / Dimplex / Opti-myst / Opti-myst Pro",
+  "isAvailable": true,
+  "description": "",
+  "title": "Opti-myst Pro",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3938402620.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Opti-myst-Pro-c158272794",
+  "parentCat": "Fireplaces / ELECTRIC / Dimplex / Opti-myst"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc99727bf34c24a7890"
+  },
+  "internalId": 158272810,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven / 2 Pizze",
+  "isAvailable": true,
+  "description": "",
+  "title": "2 Pizze",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3940755183.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/2-Pizze-c158272810",
+  "parentCat": "Outdoor Kitchen / ALFA Pizza Oven"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc99727bf34c24a7891"
+  },
+  "internalId": 158272811,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven / Stone Oven M",
+  "isAvailable": true,
+  "description": "",
+  "title": "Stone Oven M",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3940786131.webp",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Stone-Oven-M-c158272811",
+  "parentCat": "Outdoor Kitchen / ALFA Pizza Oven"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc99727bf34c24a7892"
+  },
+  "internalId": 158272812,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven / Accessories",
+  "isAvailable": true,
+  "description": "",
+  "title": "Accessories",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3940754467.webp",
+  "order": 90,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Accessories-c158272812",
+  "parentCat": "Outdoor Kitchen / ALFA Pizza Oven"
+},
+{
+  "_id": {
+    "$oid": "66a3bcc99727bf34c24a7893"
+  },
+  "internalId": 158273554,
+  "path": "Outdoor Fire Features / Fire Garden Outdoor Living",
+  "isAvailable": true,
+  "description": "",
+  "title": "Fire Garden Outdoor Living",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3936174268.png",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Fire-Garden-Outdoor-Living-c158273554",
+  "parentCat": "Outdoor Fire Features"
+},
+{
+  "_id": {
+    "$oid": "66a3bcca9727bf34c24a7894"
+  },
+  "internalId": 158273563,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven / OneNano",
+  "isAvailable": true,
+  "description": "",
+  "title": "One / Nano",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3940786129.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/One-Nano-c158273563",
+  "parentCat": "Outdoor Kitchen / ALFA Pizza Oven"
+},
+{
+  "_id": {
+    "$oid": "66a3bcca9727bf34c24a7895"
+  },
+  "internalId": 158273564,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven / 5 Pizze",
+  "isAvailable": true,
+  "description": "",
+  "title": "5 Pizze",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3940786358.webp",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/5-Pizze-c158273564",
+  "parentCat": "Outdoor Kitchen / ALFA Pizza Oven"
+},
+{
+  "_id": {
+    "$oid": "66a3bcca9727bf34c24a7896"
+  },
+  "internalId": 158273565,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven / Cooking tools",
+  "isAvailable": true,
+  "description": "",
+  "title": "Cooking tools",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3940821753.webp",
+  "order": 100,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Cooking-tools-c158273565",
+  "parentCat": "Outdoor Kitchen / ALFA Pizza Oven"
+},
+{
+  "_id": {
+    "$oid": "66a3bcca9727bf34c24a7897"
+  },
+  "internalId": 158278059,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo",
+  "isAvailable": false,
+  "description": "",
+  "title": "Heat & Glo",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3936045145.png",
+  "order": 90,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Heat-&-Glo-c158278059",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bcca9727bf34c24a7898"
+  },
+  "internalId": 158278064,
+  "path": "Outdoor Fire Features / Bromic Patio Heaters",
+  "isAvailable": true,
+  "description": "<p>For pricing options, please email us <a href=\"mailto:sales@mainlandfireplaces.com\">sales@mainlandfireplaces.com</a>.</p>",
+  "title": "Bromic Patio Heaters",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3936046490.png",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Bromic-Patio-Heaters-c158278064",
+  "parentCat": "Outdoor Fire Features"
+},
+{
+  "_id": {
+    "$oid": "66a3bcca9727bf34c24a7899"
+  },
+  "internalId": 158278077,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven / Portable",
+  "isAvailable": true,
+  "description": "",
+  "title": "Portable",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3940781404.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Portable-c158278077",
+  "parentCat": "Outdoor Kitchen / ALFA Pizza Oven"
+},
+{
+  "_id": {
+    "$oid": "66a3bccb9727bf34c24a789a"
+  },
+  "internalId": 158278564,
+  "path": "Outdoor Fire Features",
+  "isAvailable": true,
+  "description": "",
+  "title": "Outdoor Fire Features",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3995645596.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Outdoor-Fire-Features-c158278564"
+},
+{
+  "_id": {
+    "$oid": "66a3bccb9727bf34c24a789b"
+  },
+  "internalId": 158280823,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven / Covers",
+  "isAvailable": true,
+  "description": "",
+  "title": "Covers",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3940821755.jpg",
+  "order": 110,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Covers-c158280823",
+  "parentCat": "Outdoor Kitchen / ALFA Pizza Oven"
+},
+{
+  "_id": {
+    "$oid": "66a3bccb9727bf34c24a789c"
+  },
+  "internalId": 158285066,
+  "path": "Fireplaces / ELECTRIC / Amantii / Xtra Slim",
+  "isAvailable": true,
+  "description": "",
+  "title": "Xtra Slim",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3936089056.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Xtra-Slim-c158285066",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii"
+},
+{
+  "_id": {
+    "$oid": "66a3bccb9727bf34c24a789d"
+  },
+  "internalId": 158285070,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven / Stone Oven L",
+  "isAvailable": true,
+  "description": "",
+  "title": "Stone Oven L",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3940786133.jpg",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Stone-Oven-L-c158285070",
+  "parentCat": "Outdoor Kitchen / ALFA Pizza Oven"
+},
+{
+  "_id": {
+    "$oid": "66a3bccb9727bf34c24a789e"
+  },
+  "internalId": 158287317,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven / Multi Functional Base",
+  "isAvailable": true,
+  "description": "",
+  "title": "Multi Functional Base",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3940821751.webp",
+  "order": 80,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Multi-Functional-Base-c158287317",
+  "parentCat": "Outdoor Kitchen / ALFA Pizza Oven"
+},
+{
+  "_id": {
+    "$oid": "66a3bccb9727bf34c24a789f"
+  },
+  "internalId": 158506581,
+  "path": "Outdoor Kitchen / ALFA Pizza Oven / Brio",
+  "isAvailable": true,
+  "description": "",
+  "title": "Brio",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3940802169.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Brio-c158506581",
+  "parentCat": "Outdoor Kitchen / ALFA Pizza Oven"
+},
+{
+  "_id": {
+    "$oid": "66a3bccc9727bf34c24a78a0"
+  },
+  "internalId": 158747763,
+  "path": "Fireplaces / LUXURY GAS / Ortal",
+  "isAvailable": false,
+  "description": "<p><strong><span style=\"color: rgb(192, 80, 77);\"><span style=\"font-size: 16px;\">Please contact <a href=\"mailto:sales@mainlandfireplaces.com\">sales@mainlandfireplaces.com</a> for more information.</span></span></strong></p>",
+  "title": "Ortal",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3950885507.webp",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Ortal-c158747763",
+  "parentCat": "Fireplaces / LUXURY GAS"
+},
+{
+  "_id": {
+    "$oid": "66a3bccc9727bf34c24a78a1"
+  },
+  "internalId": 158764664,
+  "path": "Outdoor Fire Features / Fire Garden Outdoor Living / Outdoor torches",
+  "isAvailable": true,
+  "description": "",
+  "title": "Outdoor torches",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952787019.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Outdoor-torches-c158764664",
+  "parentCat": "Outdoor Fire Features / Fire Garden Outdoor Living"
+},
+{
+  "_id": {
+    "$oid": "66a3bccc9727bf34c24a78a2"
+  },
+  "internalId": 158767617,
+  "path": "Outdoor Fire Features / Fire Garden Outdoor Living / Outdoor gas fireplaces",
+  "isAvailable": true,
+  "description": "",
+  "title": "Outdoor gas fireplaces",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952700515.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Outdoor-gas-fireplaces-c158767617",
+  "parentCat": "Outdoor Fire Features / Fire Garden Outdoor Living"
+},
+{
+  "_id": {
+    "$oid": "66a3bccc9727bf34c24a78a3"
+  },
+  "internalId": 158767618,
+  "path": "Outdoor Fire Features / Fire Garden Outdoor Living / Outdoor Lanterns",
+  "isAvailable": true,
+  "description": "",
+  "title": "Outdoor Lanterns",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952787026.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Outdoor-Lanterns-c158767618",
+  "parentCat": "Outdoor Fire Features / Fire Garden Outdoor Living"
+},
+{
+  "_id": {
+    "$oid": "66a3bccc9727bf34c24a78a4"
+  },
+  "internalId": 158768425,
+  "path": "Outdoor Fire Features / Fire Garden Outdoor Living / Outdoor firepits",
+  "isAvailable": true,
+  "description": "",
+  "title": "Outdoor firepits",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952700850.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Outdoor-firepits-c158768425",
+  "parentCat": "Outdoor Fire Features / Fire Garden Outdoor Living"
+},
+{
+  "_id": {
+    "$oid": "66a3bccc9727bf34c24a78a5"
+  },
+  "internalId": 158768426,
+  "path": "Outdoor Fire Features / Fire Garden Outdoor Living / Outdoor voracious fire burners",
+  "isAvailable": true,
+  "description": "",
+  "title": "Outdoor voracious fire burners",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952700539.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Outdoor-voracious-fire-burners-c158768426",
+  "parentCat": "Outdoor Fire Features / Fire Garden Outdoor Living"
+},
+{
+  "_id": {
+    "$oid": "66a3bccd9727bf34c24a78a6"
+  },
+  "internalId": 158769403,
+  "path": "Outdoor Kitchen / Fire Magic Barbeque / Refrigeration",
+  "isAvailable": false,
+  "description": "",
+  "title": "Refrigeration",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952884601.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Refrigeration-c158769403",
+  "parentCat": "Outdoor Kitchen / Fire Magic Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bccd9727bf34c24a78a7"
+  },
+  "internalId": 158769404,
+  "path": "Outdoor Fire Features / Bromic Patio Heaters / Cobalt Electric",
+  "isAvailable": true,
+  "description": "",
+  "title": "Cobalt Electric",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952903630.webp",
+  "order": 90,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Cobalt-Electric-c158769404",
+  "parentCat": "Outdoor Fire Features / Bromic Patio Heaters"
+},
+{
+  "_id": {
+    "$oid": "66a3bccd9727bf34c24a78a8"
+  },
+  "internalId": 158771647,
+  "path": "Outdoor Fire Features / Bromic Patio Heaters / Platinum Smart Heat Gas",
+  "isAvailable": true,
+  "description": "",
+  "title": "Platinum Smart Heat Gas",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952899926.png",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Platinum-Smart-Heat-Gas-c158771647",
+  "parentCat": "Outdoor Fire Features / Bromic Patio Heaters"
+},
+{
+  "_id": {
+    "$oid": "66a3bccd9727bf34c24a78a9"
+  },
+  "internalId": 158771648,
+  "path": "Outdoor Fire Features / Bromic Patio Heaters / Platinum Smart Heat Electric",
+  "isAvailable": true,
+  "description": "",
+  "title": "Platinum Smart Heat Electric",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952903512.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Platinum-Smart-Heat-Electric-c158771648",
+  "parentCat": "Outdoor Fire Features / Bromic Patio Heaters"
+},
+{
+  "_id": {
+    "$oid": "66a3bccd9727bf34c24a78aa"
+  },
+  "internalId": 158773388,
+  "path": "Outdoor Kitchen / Fire Magic Barbeque / Side Burners",
+  "isAvailable": true,
+  "description": "",
+  "title": "Side Burners",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952886171.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Side-Burners-c158773388",
+  "parentCat": "Outdoor Kitchen / Fire Magic Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bccd9727bf34c24a78ab"
+  },
+  "internalId": 158773389,
+  "path": "Outdoor Kitchen / Fire Magic Barbeque / Deluxe Legacy",
+  "isAvailable": false,
+  "description": "",
+  "title": "Deluxe Legacy",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952887849.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Deluxe-Legacy-c158773389",
+  "parentCat": "Outdoor Kitchen / Fire Magic Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcce9727bf34c24a78ac"
+  },
+  "internalId": 158773390,
+  "path": "Outdoor Fire Features / Bromic Patio Heaters / Tungsten Smart Heat Gas",
+  "isAvailable": true,
+  "description": "",
+  "title": "Tungsten Smart Heat Gas",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952904295.png",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Tungsten-Smart-Heat-Gas-c158773390",
+  "parentCat": "Outdoor Fire Features / Bromic Patio Heaters"
+},
+{
+  "_id": {
+    "$oid": "66a3bcce9727bf34c24a78ad"
+  },
+  "internalId": 158773391,
+  "path": "Outdoor Fire Features / Bromic Patio Heaters / Eclipse Smart Heat Portable",
+  "isAvailable": true,
+  "description": "",
+  "title": "Eclipse Smart Heat Portable",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952903626.jpg",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Eclipse-Smart-Heat-Portable-c158773391",
+  "parentCat": "Outdoor Fire Features / Bromic Patio Heaters"
+},
+{
+  "_id": {
+    "$oid": "66a3bcce9727bf34c24a78ae"
+  },
+  "internalId": 158831251,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Xtrordinair / Ember-glo",
+  "isAvailable": true,
+  "description": "",
+  "title": "Ember-glo",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952582395.webp",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Ember-glo-c158831251",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Xtrordinair"
+},
+{
+  "_id": {
+    "$oid": "66a3bcce9727bf34c24a78af"
+  },
+  "internalId": 158837506,
+  "path": "Outdoor Fire Features / Bromic Patio Heaters / Platinum Smart Heat Electric 316 Marine",
+  "isAvailable": true,
+  "description": "",
+  "title": "Platinum Smart Heat Electric 316 Marine",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952903593.png",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Platinum-Smart-Heat-Electric-316-Marine-c158837506",
+  "parentCat": "Outdoor Fire Features / Bromic Patio Heaters"
+},
+{
+  "_id": {
+    "$oid": "66a3bcce9727bf34c24a78b0"
+  },
+  "internalId": 158837507,
+  "path": "Outdoor Fire Features / Bromic Patio Heaters / Tungsten Smart Heat Electric",
+  "isAvailable": true,
+  "description": "",
+  "title": "Tungsten Smart Heat Electric",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952904540.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Tungsten-Smart-Heat-Electric-c158837507",
+  "parentCat": "Outdoor Fire Features / Bromic Patio Heaters"
+},
+{
+  "_id": {
+    "$oid": "66a3bcce9727bf34c24a78b1"
+  },
+  "internalId": 158838502,
+  "path": "Outdoor Fire Features / Bromic Patio Heaters / Tungsten Smart Heat Portable",
+  "isAvailable": true,
+  "description": "",
+  "title": "Tungsten Smart Heat Portable",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952903628.jpg",
+  "order": 80,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Tungsten-Smart-Heat-Portable-c158838502",
+  "parentCat": "Outdoor Fire Features / Bromic Patio Heaters"
+},
+{
+  "_id": {
+    "$oid": "66a3bccf9727bf34c24a78b2"
+  },
+  "internalId": 158838752,
+  "path": "Outdoor Kitchen / Fire Magic Barbeque / Beverage Butler",
+  "isAvailable": false,
+  "description": "",
+  "title": "Beverage Butler",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952884409.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Beverage-Butler-c158838752",
+  "parentCat": "Outdoor Kitchen / Fire Magic Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bccf9727bf34c24a78b3"
+  },
+  "internalId": 158844251,
+  "path": "Outdoor Fire Features / Bromic Patio Heaters / Eclipse Smart Heat Electric",
+  "isAvailable": true,
+  "description": "",
+  "title": "Eclipse Smart Heat Electric",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3952907806.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Eclipse-Smart-Heat-Electric-c158844251",
+  "parentCat": "Outdoor Fire Features / Bromic Patio Heaters"
+},
+{
+  "_id": {
+    "$oid": "66a3bccf9727bf34c24a78b4"
+  },
+  "internalId": 158862897,
+  "path": "Fireplaces / LUXURY GAS / Ortal / Tunnel",
+  "isAvailable": true,
+  "description": "",
+  "title": "Tunnel",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3955734819.jpg",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Tunnel-c158862897",
+  "parentCat": "Fireplaces / LUXURY GAS / Ortal"
+},
+{
+  "_id": {
+    "$oid": "66a3bccf9727bf34c24a78b5"
+  },
+  "internalId": 158864345,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo / Primo",
+  "isAvailable": true,
+  "description": "",
+  "title": "Primo",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3954699717.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Primo-c158864345",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo"
+},
+{
+  "_id": {
+    "$oid": "66a3bccf9727bf34c24a78b6"
+  },
+  "internalId": 158864346,
+  "path": "Fireplaces / LUXURY GAS / Ortal / Front Facing",
+  "isAvailable": true,
+  "description": "",
+  "title": "Front Facing",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3955722866.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Front-Facing-c158864346",
+  "parentCat": "Fireplaces / LUXURY GAS / Ortal"
+},
+{
+  "_id": {
+    "$oid": "66a3bccf9727bf34c24a78b7"
+  },
+  "internalId": 158864347,
+  "path": "Fireplaces / LUXURY GAS / Ortal / Island Curve",
+  "isAvailable": true,
+  "description": "",
+  "title": "Island & Curve",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3955733555.webp",
+  "order": 90,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Island-&-Curve-c158864347",
+  "parentCat": "Fireplaces / LUXURY GAS / Ortal"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd09727bf34c24a78b8"
+  },
+  "internalId": 158864453,
+  "path": "Outdoor Fire Features / EvenTube Patio Heaters / ETS",
+  "isAvailable": true,
+  "description": "",
+  "title": "ETS",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3957329442.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/ETS-c158864453",
+  "parentCat": "Outdoor Fire Features / EvenTube Patio Heaters"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd09727bf34c24a78b9"
+  },
+  "internalId": 158865863,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Heat Glo / Supreme",
+  "isAvailable": true,
+  "description": "",
+  "title": "Supreme",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3954733502.webp",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Supreme-c158865863",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Heat Glo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd09727bf34c24a78ba"
+  },
+  "internalId": 158865864,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Heat Glo / Escape",
+  "isAvailable": true,
+  "description": "",
+  "title": "Escape",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3954715628.webp",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Escape-c158865864",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Heat Glo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd09727bf34c24a78bb"
+  },
+  "internalId": 158865865,
+  "path": "Fireplaces / LUXURY GAS / Ortal / Traditional",
+  "isAvailable": true,
+  "description": "",
+  "title": "Traditional",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3955735015.webp",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Traditional-c158865865",
+  "parentCat": "Fireplaces / LUXURY GAS / Ortal"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd09727bf34c24a78bc"
+  },
+  "internalId": 158865866,
+  "path": "Fireplaces / LUXURY GAS / Ortal / Corner",
+  "isAvailable": true,
+  "description": "",
+  "title": "Corner",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3955716491.webp",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Corner-c158865866",
+  "parentCat": "Fireplaces / LUXURY GAS / Ortal"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd09727bf34c24a78bd"
+  },
+  "internalId": 158865867,
+  "path": "Fireplaces / LUXURY GAS / Ortal / Indoor-Outdoor Tunnel",
+  "isAvailable": true,
+  "description": "",
+  "title": "Indoor-Outdoor Tunnel",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3955733546.jpg",
+  "order": 80,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Indoor-Outdoor-Tunnel-c158865867",
+  "parentCat": "Fireplaces / LUXURY GAS / Ortal"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd19727bf34c24a78be"
+  },
+  "internalId": 158870866,
+  "path": "Fireplaces / LUXURY GAS / Ortal / Space Creator",
+  "isAvailable": true,
+  "description": "",
+  "title": "Space Creator",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3955722970.webp",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Space-Creator-c158870866",
+  "parentCat": "Fireplaces / LUXURY GAS / Ortal"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd19727bf34c24a78bf"
+  },
+  "internalId": 158871121,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Heat Glo / Provident",
+  "isAvailable": true,
+  "description": "",
+  "title": "Provident",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3954719826.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Provident-c158871121",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Heat Glo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd19727bf34c24a78c0"
+  },
+  "internalId": 158876843,
+  "path": "Fireplaces / LUXURY GAS / Ortal / Wilderness",
+  "isAvailable": true,
+  "description": "",
+  "title": "Wilderness",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3955715493.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Wilderness-c158876843",
+  "parentCat": "Fireplaces / LUXURY GAS / Ortal"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd19727bf34c24a78c1"
+  },
+  "internalId": 158876844,
+  "path": "Fireplaces / LUXURY GAS / Ortal / Three Sided",
+  "isAvailable": true,
+  "description": "",
+  "title": "Three Sided",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3955734813.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Three-Sided-c158876844",
+  "parentCat": "Fireplaces / LUXURY GAS / Ortal"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd19727bf34c24a78c2"
+  },
+  "internalId": 158876968,
+  "path": "Outdoor Fire Features / EvenTube Patio Heaters / Hanging Brackets Kit",
+  "isAvailable": false,
+  "description": "",
+  "title": "Hanging Brackets Kit",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3993682625.webp",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Hanging-Brackets-Kit-c158876968",
+  "parentCat": "Outdoor Fire Features / EvenTube Patio Heaters"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd19727bf34c24a78c3"
+  },
+  "internalId": 158876975,
+  "path": "Outdoor Fire Features / Sunpak Patio Heaters",
+  "isAvailable": true,
+  "description": "",
+  "title": "Sunpak Patio Heaters",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3957526316.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Sunpak-Patio-Heaters-c158876975",
+  "parentCat": "Outdoor Fire Features"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd19727bf34c24a78c4"
+  },
+  "internalId": 158878835,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo / Mezzo",
+  "isAvailable": true,
+  "description": "",
+  "title": "Mezzo",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3954719822.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Mezzo-c158878835",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd29727bf34c24a78c5"
+  },
+  "internalId": 158878836,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo / Cosmo",
+  "isAvailable": true,
+  "description": "",
+  "title": "Cosmo",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3954727034.webp",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Cosmo-c158878836",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd29727bf34c24a78c6"
+  },
+  "internalId": 158878837,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo / Phoenix",
+  "isAvailable": true,
+  "description": "",
+  "title": "Phoenix",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3954715645.webp",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Phoenix-c158878837",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd29727bf34c24a78c7"
+  },
+  "internalId": 158918514,
+  "path": "Outdoor Fire Features / EvenTube Patio Heaters",
+  "isAvailable": true,
+  "description": "",
+  "title": "EvenTube Patio Heaters",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3957316968.png",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/EvenTube-Patio-Heaters-c158918514",
+  "parentCat": "Outdoor Fire Features"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd29727bf34c24a78c8"
+  },
+  "internalId": 159254631,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Enviro / Stand Alone",
+  "isAvailable": true,
+  "description": "",
+  "title": "Stand Alone",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3964062701.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Stand-Alone-c159254631",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Enviro"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd29727bf34c24a78c9"
+  },
+  "internalId": 159299501,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Enviro / Stand Alone / S Series",
+  "isAvailable": true,
+  "description": "",
+  "title": "S Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3964114165.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/S-Series-c159299501",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Enviro / Stand Alone"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd29727bf34c24a78ca"
+  },
+  "internalId": 159299751,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Enviro / Stand Alone / Westport",
+  "isAvailable": true,
+  "description": "",
+  "title": "Westport",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3964108744.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Westport-c159299751",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Enviro / Stand Alone"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd39727bf34c24a78cb"
+  },
+  "internalId": 159756910,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Delray Series / Fully Loaded",
+  "isAvailable": true,
+  "description": "",
+  "title": "Fully Loaded",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3993647900.webp",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Fully-Loaded-c159756910",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Delray Series"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd39727bf34c24a78cc"
+  },
+  "internalId": 159756911,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Delray Square / Basic",
+  "isAvailable": true,
+  "description": "",
+  "title": "Basic",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3993650610.webp",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Basic-c159756911",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Delray Square"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd39727bf34c24a78cd"
+  },
+  "internalId": 159760837,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Delray Series / Basic",
+  "isAvailable": true,
+  "description": "",
+  "title": "Basic",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3993647902.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Basic-c159760837",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Delray Series"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd39727bf34c24a78ce"
+  },
+  "internalId": 159762115,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Delray Square / Fully Loaded",
+  "isAvailable": true,
+  "description": "",
+  "title": "Fully Loaded",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3993651587.webp",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Fully-Loaded-c159762115",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Delray Square"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd39727bf34c24a78cf"
+  },
+  "internalId": 159863052,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces",
+  "isAvailable": true,
+  "description": "",
+  "title": "Direct Vent Gas Fireplaces",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3995485227.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Direct-Vent-Gas-Fireplaces-c159863052",
+  "parentCat": "Fireplaces / GAS"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd39727bf34c24a78d0"
+  },
+  "internalId": 159863053,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Kozy Heat",
+  "isAvailable": true,
+  "description": "<p style=\"text-align: center;\"><strong><span style=\"font-size: 18px;\"><span style=\"color: rgb(192, 80, 77);\"><a href=\"https://www.kozyheatgallery.com/build-your-own-fireplace\" target=\"_blank\"><span style=\"color: rgb(192, 80, 77);\">Click Here to Build Your Fireplace</span></a></span></span></strong></p>",
+  "title": "Kozy Heat",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3995495384.webp",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Kozy-Heat-c159863053",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney)"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd49727bf34c24a78d1"
+  },
+  "internalId": 159863054,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Xtrordinair",
+  "isAvailable": true,
+  "description": "<p><a href=\"https://firebuilder.travisindustries.com/#/select\" target=\"_blank\"><strong><span style=\"color: rgb(192, 80, 77);\">Click Here to Build your own fireplace</span></strong></a></p>",
+  "title": "Xtrordinair",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3995505510.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Xtrordinair-c159863054",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney)"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd49727bf34c24a78d2"
+  },
+  "internalId": 159865801,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Marquis / Enclave / Single Sided",
+  "isAvailable": true,
+  "description": "",
+  "title": "Single Sided",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3995546842.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Single-Sided-c159865801",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Marquis / Enclave"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd49727bf34c24a78d3"
+  },
+  "internalId": 159868301,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Heat Glo",
+  "isAvailable": true,
+  "description": "",
+  "title": "Heat & Glo",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3995483912.png",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Heat-&-Glo-c159868301",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney)"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd49727bf34c24a78d4"
+  },
+  "internalId": 159868302,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Enviro",
+  "isAvailable": true,
+  "description": "",
+  "title": "Enviro",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3995503038.png",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Enviro-c159868302",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney)"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd49727bf34c24a78d5"
+  },
+  "internalId": 159869542,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Marquis / Enclave / Bay",
+  "isAvailable": true,
+  "description": "",
+  "title": "Bay",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3995546595.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Bay-c159869542",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Marquis / Enclave"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd49727bf34c24a78d6"
+  },
+  "internalId": 159886544,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney)",
+  "isAvailable": true,
+  "description": "",
+  "title": "Gas Inserts (for masonry chimney)",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/3995485660.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Gas-Inserts-for-masonry-chimney-c159886544",
+  "parentCat": "Fireplaces / GAS"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd59727bf34c24a78d7"
+  },
+  "internalId": 160246933,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heatilator",
+  "isAvailable": true,
+  "description": "",
+  "title": "Heatilator",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4004178224.jpg",
+  "order": 100,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Heatilator-c160246933",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd59727bf34c24a78d8"
+  },
+  "internalId": 160796318,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Rouge SE",
+  "isAvailable": true,
+  "description": "",
+  "title": "Rouge SE",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4019680454.jpg",
+  "order": 100,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Rouge-SE-c160796318",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd59727bf34c24a78d9"
+  },
+  "internalId": 160796546,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Rogue",
+  "isAvailable": true,
+  "description": "",
+  "title": "Rogue",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4019680397.jpg",
+  "order": 80,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Rogue-c160796546",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd59727bf34c24a78da"
+  },
+  "internalId": 160796548,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Accessories",
+  "isAvailable": true,
+  "description": "",
+  "title": "Accessories",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4021007296.webp",
+  "order": 140,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Accessories-c160796548",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd59727bf34c24a78db"
+  },
+  "internalId": 160798590,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Rogue XT",
+  "isAvailable": true,
+  "description": "",
+  "title": "Rogue XT",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4019701503.jpg",
+  "order": 90,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Rogue-XT-c160798590",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd59727bf34c24a78dc"
+  },
+  "internalId": 160804549,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Charcoal",
+  "isAvailable": true,
+  "description": "",
+  "title": "Charcoal",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4019713300.jpg",
+  "order": 120,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Charcoal-c160804549",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd69727bf34c24a78dd"
+  },
+  "internalId": 160822272,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Built-In Side Burners / Built In 500",
+  "isAvailable": true,
+  "description": "",
+  "title": "Built In 500",
+  "image": "",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Built-In-500-c160822272",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque / Built-In Side Burners"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd69727bf34c24a78de"
+  },
+  "internalId": 160822273,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Built-In Side Burners / Built In 700",
+  "isAvailable": true,
+  "description": "",
+  "title": "Built In 700",
+  "image": "",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Built-In-700-c160822273",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque / Built-In Side Burners"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd69727bf34c24a78df"
+  },
+  "internalId": 160822289,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Patio Flame",
+  "isAvailable": true,
+  "description": "",
+  "title": "Patio Flame",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4019709677.jpg",
+  "order": 130,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Patio-Flame-c160822289",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd69727bf34c24a78e0"
+  },
+  "internalId": 160822303,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Free Style",
+  "isAvailable": true,
+  "description": "",
+  "title": "Free Style",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4019721615.jpg",
+  "order": 150,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Free-Style-c160822303",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd69727bf34c24a78e1"
+  },
+  "internalId": 160833548,
+  "path": "Outdoor Kitchen / Napoleon Barbeque / Portable",
+  "isAvailable": true,
+  "description": "",
+  "title": "Portable",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4019706057.jpg",
+  "order": 110,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Portable-c160833548",
+  "parentCat": "Outdoor Kitchen / Napoleon Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd69727bf34c24a78e2"
+  },
+  "internalId": 162091407,
+  "path": "Fireplaces / LUXURY GAS / Urbana / U55",
+  "isAvailable": true,
+  "description": "",
+  "title": "U55",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4062299853.jpg",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/U55-c162091407",
+  "parentCat": "Fireplaces / LUXURY GAS / Urbana"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd79727bf34c24a78e3"
+  },
+  "internalId": 162091428,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heatilator / Crave See Through",
+  "isAvailable": true,
+  "description": "",
+  "title": "Crave See Through",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4062487419.webp",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Crave-See-Through-c162091428",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heatilator"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd79727bf34c24a78e4"
+  },
+  "internalId": 162097179,
+  "path": "Fireplaces / LUXURY GAS / Urbana / U33",
+  "isAvailable": true,
+  "description": "",
+  "title": "U33",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4062299310.png",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/U33-c162097179",
+  "parentCat": "Fireplaces / LUXURY GAS / Urbana"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd79727bf34c24a78e5"
+  },
+  "internalId": 162106188,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heatilator / Crave",
+  "isAvailable": true,
+  "description": "",
+  "title": "Crave",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4062491670.webp",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Crave-c162106188",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heatilator"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd79727bf34c24a78e6"
+  },
+  "internalId": 163179427,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon",
+  "isAvailable": true,
+  "description": "",
+  "title": "Napoleon",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4101937578.png",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Napoleon-c163179427",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd79727bf34c24a78e7"
+  },
+  "internalId": 163179428,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Firenze",
+  "isAvailable": true,
+  "description": "",
+  "title": "Firenze",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4101978527.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Firenze-c163179428",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd79727bf34c24a78e8"
+  },
+  "internalId": 163179429,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Timberfire",
+  "isAvailable": true,
+  "description": "",
+  "title": "Timberfire",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4101978529.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Timberfire-c163179429",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd89727bf34c24a78e9"
+  },
+  "internalId": 163182713,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Luxuria",
+  "isAvailable": true,
+  "description": "",
+  "title": "Luxuria",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4102004534.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Luxuria-c163182713",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd89727bf34c24a78ea"
+  },
+  "internalId": 163182714,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Altitude X",
+  "isAvailable": true,
+  "description": "",
+  "title": "Altitude™ X",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106095593.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Altitude-tm-X-c163182714",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd89727bf34c24a78eb"
+  },
+  "internalId": 163184701,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Ascent Linear Premium",
+  "isAvailable": true,
+  "description": "",
+  "title": "Ascent™ Linear Premium",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106177325.jpg",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Ascent-tm-Linear-Premium-c163184701",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd89727bf34c24a78ec"
+  },
+  "internalId": 163184702,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Maestro",
+  "isAvailable": true,
+  "description": "",
+  "title": "Maestro",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4101992327.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Maestro-c163184702",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd89727bf34c24a78ed"
+  },
+  "internalId": 163186972,
+  "path": "Fireplaces / LUXURY GAS / Davinci / Custom",
+  "isAvailable": true,
+  "description": "",
+  "title": "Custom",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4101970336.png",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Custom-c163186972",
+  "parentCat": "Fireplaces / LUXURY GAS / Davinci"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd99727bf34c24a78ee"
+  },
+  "internalId": 163189453,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Vector",
+  "isAvailable": true,
+  "description": "",
+  "title": "Vector",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106199287.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Vector-c163189453",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd99727bf34c24a78ef"
+  },
+  "internalId": 163264564,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Vector / Single Sided",
+  "isAvailable": true,
+  "description": "",
+  "title": "Single Sided",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106073273.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Single-Sided-c163264564",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Vector"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd99727bf34c24a78f0"
+  },
+  "internalId": 163264565,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Vector / See Through",
+  "isAvailable": true,
+  "description": "",
+  "title": "See Through",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106069115.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/See-Through-c163264565",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Vector"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd99727bf34c24a78f1"
+  },
+  "internalId": 163267582,
+  "path": "Fireplaces / ELECTRIC / Napoleon / Entice",
+  "isAvailable": true,
+  "description": "",
+  "title": "Entice",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106169216.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Entice-c163267582",
+  "parentCat": "Fireplaces / ELECTRIC / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd99727bf34c24a78f2"
+  },
+  "internalId": 163269346,
+  "path": "Outdoor Fire Features / Napoleon Outdoor Fireplaces",
+  "isAvailable": true,
+  "description": "",
+  "title": "Napoleon Outdoor Fireplaces",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106313107.png",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Napoleon-Outdoor-Fireplaces-c163269346",
+  "parentCat": "Outdoor Fire Features"
+},
+{
+  "_id": {
+    "$oid": "66a3bcd99727bf34c24a78f3"
+  },
+  "internalId": 163269562,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Distinction",
+  "isAvailable": true,
+  "description": "",
+  "title": "Distinction",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4105776985.webp",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Distinction-c163269562",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcda9727bf34c24a78f4"
+  },
+  "internalId": 163269603,
+  "path": "Fireplaces / ELECTRIC / Napoleon / Trivista Primis",
+  "isAvailable": true,
+  "description": "",
+  "title": "Trivista Primis",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106164530.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Trivista-Primis-c163269603",
+  "parentCat": "Fireplaces / ELECTRIC / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcda9727bf34c24a78f5"
+  },
+  "internalId": 163269624,
+  "path": "Outdoor Fire Features / Infratech Electric Heaters",
+  "isAvailable": true,
+  "description": "",
+  "title": "Infratech Electric Heaters",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106560673.jpg",
+  "order": 80,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Infratech-Electric-Heaters-c163269624",
+  "parentCat": "Outdoor Fire Features"
+},
+{
+  "_id": {
+    "$oid": "66a3bcda9727bf34c24a78f6"
+  },
+  "internalId": 163270087,
+  "path": "Fireplaces / ELECTRIC / Napoleon / Astound",
+  "isAvailable": true,
+  "description": "",
+  "title": "Astound",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106251416.jpg",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Astound-c163270087",
+  "parentCat": "Fireplaces / ELECTRIC / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcda9727bf34c24a78f7"
+  },
+  "internalId": 163271325,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Elevation X",
+  "isAvailable": true,
+  "description": "",
+  "title": "Elevation™ X",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106267730.webp",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Elevation-tm-X-c163271325",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcda9727bf34c24a78f8"
+  },
+  "internalId": 163271332,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Luxuria / Single Sided",
+  "isAvailable": true,
+  "description": "",
+  "title": "Single Sided",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106322442.jpg",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Single-Sided-c163271332",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Luxuria"
+},
+{
+  "_id": {
+    "$oid": "66a3bcda9727bf34c24a78f9"
+  },
+  "internalId": 163271333,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Luxuria / See Through",
+  "isAvailable": true,
+  "description": "",
+  "title": "See Through",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106325414.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/See-Through-c163271333",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Luxuria"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdb9727bf34c24a78fa"
+  },
+  "internalId": 163275828,
+  "path": "Fireplaces / ELECTRIC / Napoleon",
+  "isAvailable": true,
+  "description": "",
+  "title": "Napoleon",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4106147060.png",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Napoleon-c163275828",
+  "parentCat": "Fireplaces / ELECTRIC"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdb9727bf34c24a78fb"
+  },
+  "internalId": 163405537,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Ascent",
+  "isAvailable": true,
+  "description": "",
+  "title": "Ascent™",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4108117290.jpg",
+  "order": 80,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Ascent-tm-c163405537",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdb9727bf34c24a78fc"
+  },
+  "internalId": 163814864,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo / SlimLine",
+  "isAvailable": true,
+  "description": "",
+  "title": "SlimLine",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4120904299.webp",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/SlimLine-c163814864",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdb9727bf34c24a78fd"
+  },
+  "internalId": 163977047,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair / 6015 Series",
+  "isAvailable": true,
+  "description": "",
+  "title": "6015 Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4124819162.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/6015-Series-c163977047",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdb9727bf34c24a78ff"
+  },
+  "internalId": 163981313,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair / Probuilder",
+  "isAvailable": true,
+  "description": "",
+  "title": "Probuilder",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4124819168.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Probuilder-c163981313",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Xtrordinair"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdc9727bf34c24a7900"
+  },
+  "internalId": 164490333,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Elevation",
+  "isAvailable": true,
+  "description": "",
+  "title": "Elevation™",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4138588046.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Elevation-tm-c164490333",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdc9727bf34c24a7901"
+  },
+  "internalId": 164490472,
+  "path": "Outdoor Fire Features / Savannah Outdoor Fireplaces",
+  "isAvailable": false,
+  "description": "",
+  "title": "Savannah Outdoor Fireplaces",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4140690305.png",
+  "order": 90,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Savannah-Outdoor-Fireplaces-c164490472",
+  "parentCat": "Outdoor Fire Features"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdc9727bf34c24a7902"
+  },
+  "internalId": 164644290,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Ascent X",
+  "isAvailable": true,
+  "description": "",
+  "title": "Ascent™ X",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4146897303.jpg",
+  "order": 90,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Ascent-tm-X-c164644290",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcde9727bf34c24a790e"
+  },
+  "internalId": 165074075,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Xtrordinair / Mod-Fyre",
+  "isAvailable": true,
+  "description": "",
+  "title": "Mod-Fyre",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4167676962.jpg",
+  "order": 20,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Mod-Fyre-c165074075",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Xtrordinair"
+},
+{
+  "_id": {
+    "$oid": "66a3bcde9727bf34c24a790f"
+  },
+  "internalId": 165106491,
+  "path": "Outdoor Fire Features / Heat Glo Outdoor Fireplaces",
+  "isAvailable": true,
+  "description": "",
+  "title": "Heat & Glo Outdoor Fireplaces",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4173665263.png",
+  "order": 100,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Heat-&-Glo-Outdoor-Fireplaces-c165106491",
+  "parentCat": "Outdoor Fire Features"
+},
+{
+  "_id": {
+    "$oid": "66a3bcde9727bf34c24a7910"
+  },
+  "internalId": 165312364,
+  "path": "Fireplaces / ELECTRIC / Napoleon / Cineview",
+  "isAvailable": true,
+  "description": "",
+  "title": "Cineview",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4184610359.jpg",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Cineview-c165312364",
+  "parentCat": "Fireplaces / ELECTRIC / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcde9727bf34c24a7911"
+  },
+  "internalId": 165312378,
+  "path": "Fireplaces / ELECTRIC / Napoleon / Alluravision Deep Series",
+  "isAvailable": false,
+  "description": "",
+  "title": "Alluravision Deep Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4184712652.jpg",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Alluravision-Deep-Series-c165312378",
+  "parentCat": "Fireplaces / ELECTRIC / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdf9727bf34c24a7912"
+  },
+  "internalId": 165312618,
+  "path": "Fireplaces / ELECTRIC / Napoleon / Alluravision Slim Series",
+  "isAvailable": false,
+  "description": "",
+  "title": "Alluravision Slim Series",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4184726704.jpg",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Alluravision-Slim-Series-c165312618",
+  "parentCat": "Fireplaces / ELECTRIC / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdf9727bf34c24a7913"
+  },
+  "internalId": 165375388,
+  "path": "Outdoor Fire Features / Montigo Outdoor Fireplaces",
+  "isAvailable": false,
+  "description": "",
+  "title": "Montigo Outdoor Fireplaces",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4186605235.webp",
+  "order": 110,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Montigo-Outdoor-Fireplaces-c165375388",
+  "parentCat": "Outdoor Fire Features"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdf9727bf34c24a7914"
+  },
+  "internalId": 165634373,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Ascent Linear",
+  "isAvailable": true,
+  "description": "",
+  "title": "Ascent™ Linear",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4198707966.jpg",
+  "order": 100,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Ascent-tm-Linear-c165634373",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdf9727bf34c24a7915"
+  },
+  "internalId": 165634635,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo / Divine",
+  "isAvailable": true,
+  "description": "",
+  "title": "Divine",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4198595167.webp",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Divine-c165634635",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Montigo"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdf9727bf34c24a7916"
+  },
+  "internalId": 165728752,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Ascent Multi-View",
+  "isAvailable": true,
+  "description": "",
+  "title": "Ascent™ Multi-View",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4200728220.jpg",
+  "order": 110,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Ascent-tm-Multi-View-c165728752",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66a3bcdf9727bf34c24a7917"
+  },
+  "internalId": 165732540,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Heat Glo / Cosmo",
+  "isAvailable": true,
+  "description": "",
+  "title": "Cosmo",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4201192916.webp",
+  "order": 40,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Cosmo-c165732540",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Heat Glo"
+},
+{
+  "_id": {
+    "$oid": "66a3bce09727bf34c24a7918"
+  },
+  "internalId": 166031560,
+  "path": "Outdoor Kitchen / EVO Grill",
+  "isAvailable": true,
+  "description": "",
+  "title": "EVO Grill",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4210966092.webp",
+  "order": 50,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/EVO-Grill-c166031560",
+  "parentCat": "Outdoor Kitchen"
+},
+{
+  "_id": {
+    "$oid": "66a3bce09727bf34c24a7919"
+  },
+  "internalId": 166708751,
+  "path": "Outdoor Kitchen / Fire Magic Barbeque / Components",
+  "isAvailable": true,
+  "description": "",
+  "title": "Components",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4228313241.jpg",
+  "order": 70,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Components-c166708751",
+  "parentCat": "Outdoor Kitchen / Fire Magic Barbeque"
+},
+{
+  "_id": {
+    "$oid": "66a3bce09727bf34c24a791a"
+  },
+  "internalId": 166709001,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo / True",
+  "isAvailable": true,
+  "description": "",
+  "title": "TRUE",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4228358015.webp",
+  "order": 60,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/True-c166709001",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Heat Glo"
+},
+{
+  "_id": {
+    "$oid": "66a3bce09727bf34c24a791b"
+  },
+  "internalId": 167214507,
+  "path": "Fireplaces / ELECTRIC / Amantii / Symmetry / Lumina",
+  "isAvailable": true,
+  "description": "",
+  "title": "Lumina",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4247889701.webp",
+  "order": 10,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Lumina-c167214507",
+  "parentCat": "Fireplaces / ELECTRIC / Amantii / Symmetry"
+},
+{
+  "_id": {
+    "$oid": "66a3bce09727bf34c24a791c"
+  },
+  "internalId": 167467295,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Vector Tall",
+  "isAvailable": true,
+  "description": "",
+  "title": "Vector Tall",
+  "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93244273/4274508947.png",
+  "order": 30,
+  "storeId": 0,
+  "url": "https://www.mainlandfireplaces.com/store/Vector-Tall-c167467295",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "66d196cc7a99009a39167394"
+  },
+  "internalId": 0,
+  "path": "Fireplaces / GAS / Gas Inserts (for masonry chimney) / Napoleon",
+  "isAvailable": true,
+  "description": "",
+  "title": "Napoleon",
+  "image": "https://firebasestorage.googleapis.com/v0/b/gwd-432d6.appspot.com/o/mainland-fireplaces%2Fcategory%2Fimages%2F1725011661351.webp?alt=media&token=70094298-8c96-4fc2-911d-dcd7f203aa11",
+  "order": 0,
+  "url": "",
+  "parentCat": "Fireplaces / GAS / Gas Inserts (for masonry chimney)"
+},
+{
+  "_id": {
+    "$oid": "66fdc8aca3e654ce0ac8fe1f"
+  },
+  "internalId": 0,
+  "path": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon / Altitude",
+  "isAvailable": true,
+  "description": "",
+  "title": "Altitude",
+  "image": "https://firebasestorage.googleapis.com/v0/b/gwd-432d6.appspot.com/o/mainland-fireplaces%2Fcategory%2Fimages%2F1727908010668.png?alt=media&token=86431166-6e66-462a-9039-608f9a3a7f78",
+  "order": 0,
+  "url": "",
+  "parentCat": "Fireplaces / GAS / Direct Vent Gas Fireplaces / Napoleon"
+},
+{
+  "_id": {
+    "$oid": "670ed245cbf12e5b0047d0cb"
+  },
+  "internalId": {
+    "$numberLong": "0"
+  },
+  "path": "Fireplaces / ELECTRIC / Napoleon / Elevation",
+  "isAvailable": true,
+  "description": "",
+  "title": "Elevation",
+  "image": "https://firebasestorage.googleapis.com/v0/b/gwd-432d6.appspot.com/o/mainland-fireplaces%2Fcategory%2Fimages%2F1729024578721.png?alt=media&token=2c696500-1426-4e0a-8839-8ad275f05bb9",
+  "order": {
+    "$numberLong": "0"
+  },
+  "url": "",
+  "parentCat": "Fireplaces / ELECTRIC / Napoleon"
+}]
