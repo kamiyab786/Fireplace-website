@@ -36,7 +36,7 @@ export const SITE_DATA = {
     },
     {
       id: 'outdoor-kitchen',
-      title: 'Outdoor Kitchens',
+      title: 'Outdoor Kitchen',
       subtitle: 'Napoleon® Grills',
       description: 'Take the indoors out with premium grilling stations. Featuring Napoleon® BBQs and ALFA Pizza Ovens.',
       image: 'https://images.unsplash.com/photo-1528605248644-14dd04022da1?q=80&w=2070&auto=format&fit=crop',
@@ -44,7 +44,7 @@ export const SITE_DATA = {
     },
     {
       id: 'outdoor-fire',
-      title: 'Outdoor Fire',
+      title: 'Outdoor Fire Features',
       subtitle: 'Atmosphere',
       description: 'Bring warmth and atmosphere to your backyard. From fire tables to custom fire features.',
       image: 'https://images.unsplash.com/photo-1623652391060-f655b404d0c1?q=80&w=2070&auto=format&fit=crop',

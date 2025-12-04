@@ -174,7 +174,7 @@ const HomePage = () => {
                       onClick={(e) => {
                         e.stopPropagation();
                         // Navigate to the products route
-                        navigate('/products');
+                        navigate('/products', { state: { category: cat.title } });
                       }}
                       className='flex items-center gap-3 bg-[#C8102E] text-white px-5 py-2 md:px-6 md:py-3 rounded-xs hover:bg-[#a00c24] transition-colors duration-300 shadow-lg w-max'
                     >
@@ -217,13 +217,16 @@ const HomePage = () => {
             </p>
 
             <div className='pt-4'>
-              <button
-                onClick={() => navigate('/products', { state: { selectedBrand: 'Napoleon' } })}
-                className='group bg-white text-primary px-8 py-4 uppercase font-bold tracking-widest text-sm rounded-xl hover:bg-secondary hover:text-white transition-all duration-300 shadow-xl flex items-center gap-3'
-              >
-                Explore Collection
-                <span className='group-hover:translate-x-1 transition-transform duration-300'>→</span>
-              </button>
+              {/* Inside your Featured Brand / Napoleon Section */}
+<button 
+  // ADD THIS onClick:
+  onClick={() => navigate('/products', { state: { brand: 'Napoleon' } })}
+  
+  className='group bg-white text-primary px-8 py-4 uppercase font-bold tracking-widest text-xs rounded-xs hover:bg-secondary hover:text-white transition-all duration-300 shadow-xl flex items-center gap-3'
+>
+  Explore Collection
+  <span className='group-hover:translate-x-1 transition-transform duration-300'>→</span>
+</button>
             </div>
           </div>
 
