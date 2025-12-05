@@ -1,10 +1,10 @@
 import React from 'react';
-import { Link, useLocation } from 'react-router-dom'; // 1. Import useLocation
+import { Link, useLocation } from 'react-router-dom';
 import { Flame, Facebook, Instagram, Twitter, Send, Phone, MapPin, Clock } from 'lucide-react';
 import { SITE_DATA } from '../data/Constants';
 
 const Footer = () => {
-  const location = useLocation(); // 2. Get current path
+  const location = useLocation();
 
   return (
     <footer className='bg-primary text-white pt-20 pb-10 border-t border-white/10 font-sans'>
@@ -12,21 +12,14 @@ const Footer = () => {
 
         <div className='grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 mb-16'>
 
-          {/* COL 1: BRAND, PHONE, LOCATION (Moved here) */}
           <div className='lg:col-span-5 space-y-8'>
             {/* Logo */}
-            <Link to="/" className='flex items-center gap-3 group w-max'>
-              <div className='w-10 h-10 bg-white flex items-center justify-center rounded-xs shadow-lg group-hover:bg-secondary group-hover:text-white transition-colors duration-300 text-primary'>
-                <Flame className='w-6 h-6' fill='currentColor' />
-              </div>
-              <div className='flex flex-col'>
-                <span className='font-heading text-2xl uppercase font-bold leading-none tracking-wide text-white'>
-                  {SITE_DATA.brandName}
-                </span>
-                <span className='text-[10px] uppercase tracking-[0.25em] text-white/80 font-bold'>
-                  Fireplaces & Grills
-                </span>
-              </div>
+            <Link to="/" className='block bg-white max-w-47 lg:max-w-55 px-2 pt-3 pb-2 rounded-xl'>
+              <img
+                src="https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/SxR3ZqgZbzQRiOEueKXk/media/681b81746da84953b0d279b5.png"
+                alt={SITE_DATA.brandName}
+                className='h-10 md:h-12 w-auto object-contain'
+              />
             </Link>
 
             {/* Big Phone Number */}
@@ -40,15 +33,15 @@ const Footer = () => {
               </p>
             </div>
 
-            {/* Location & Hours (Moved from Middle Col) */}
+            {/* Location & Hours */}
             <div className='space-y-4'>
               <div className='flex items-start gap-3 text-white/90 text-sm font-medium'>
                 <MapPin className='w-5 h-5 text-secondary mt-1 shrink-0' />
-                <span>20771 Langley Bypass #201<br />{SITE_DATA.location}</span>
+                <span>20771 Langley Bypass #201<br />{SITE_DATA.location} V3A 5E8</span>
               </div>
               <div className='flex items-start gap-3 text-white/90 text-sm font-medium'>
                 <Clock className='w-5 h-5 text-secondary mt-1 shrink-0' />
-                <span>Mon-Fri: 9am - 4:30pm<br />Sat-Sun: 10am - 4pm</span>
+                <span>Mon-Fri: 09:00am - 04:30pm<br />Sat-Sun: 10:00am - 04:00pm</span>
               </div>
             </div>
           </div>
@@ -140,7 +133,7 @@ const Footer = () => {
 
         {/* BOTTOM BAR */}
         <div className='pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-white/60 font-medium'>
-          <p>© 2025 {SITE_DATA.brandName} Fireplaces. All Rights Reserved.</p>
+          <p>© 2025 {SITE_DATA.brandName}. All Rights Reserved.</p>
           <div className='flex gap-6'>
             <span className='hover:text-white cursor-pointer transition-colors'>Privacy Policy</span>
             <span className='hover:text-white cursor-pointer transition-colors'>Terms of Service</span>

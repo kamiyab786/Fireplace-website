@@ -2,13 +2,9 @@ import React from 'react';
 import { Flame, ThermometerSun, Wind } from 'lucide-react';
 
 export const SITE_DATA = {
-  brandName: 'Mainland',
+  brandName: 'Mainland Fireplaces & Grills',
   phone: '(604) 533-2198',
   location: 'Langley, BC',
-  filters: {
-    brands: ['Napoleon', 'Amantii', 'Dimplex', 'Modern Flames', 'Faber', 'Regency', 'Bromic'],
-    styles: ['Linear Built-In', 'Traditional Log', '3-Sided Glass', 'Wall Mount', 'Mantel Package', 'Insert'],
-  },
   categories: [
     {
       id: 'electric',
@@ -103,15 +99,21 @@ export const SITE_DATA = {
       image: 'https://images.unsplash.com/photo-1507498016354-887e17c7d231?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmlyZSUyMHBpdHxlbnwwfHwwfHx8MA%3D%3D',
     },
   ],
+  testimonials: [
+    {
+      name: 'MSG Developments',
+      role: 'Custom Home Builder',
+      text: "We have been purchasing fireplaces from Mainland fireplaces for quite some time now for all our custom home projects, and the experience has been outstanding from start to finish. The selection of fireplaces is extensive, the staff is incredibly knowledgeable, helping our clients choose the perfect model for any space. Installation is seamless, with a professional team ensuring everything is set up safely and efficiently. If you're looking for a reliable fireplace supplier with excellent products and customer service, we highly recommend Mainland Fireplaces.",
+    },
+    {
+      name: 'Steven Me',
+      role: 'Homeowner',
+      text: "Mainland Fireplaces did an amazing job at transforming our living room with a beautiful wall build-out to hold a large fireplace. They completed the look with a cement finish which looks fantastic. Very modern. I would highly recommend them.",
+    },
+    {
+      name: 'Melissa Fraser',
+      role: 'Homeowner',
+      text: "Mainland installed our fireplaces and has helped us with maintenance since. As someone who knows nothing about fireplaces they have helped answer questions on several occasions and provided great customer service since the installation. Absolutely recommend them for sales and service.",
+    },
+  ]
 };
-
-export const INITIAL_PRODUCTS = Array.from({ length: 24 }, (_, i) => ({
-  id: i + 1,
-  brand: SITE_DATA.filters.brands[i % SITE_DATA.filters.brands.length],
-  style: SITE_DATA.filters.styles[i % SITE_DATA.filters.styles.length],
-  name: `${SITE_DATA.filters.brands[i % SITE_DATA.filters.brands.length]} ${SITE_DATA.filters.styles[i % SITE_DATA.filters.styles.length]} Series ${50 + i * 10}'`,
-  price: 1200 + i * 150,
-  image: 'https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop',
-  isNew: i < 3,
-  sku: `EF-${1000 + i}`,
-}));

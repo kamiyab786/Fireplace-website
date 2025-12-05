@@ -3,29 +3,10 @@ import { useNavigate } from 'react-router-dom';
 import { ArrowRight, Star, Quote, X } from 'lucide-react';
 import { SITE_DATA } from '../data/Constants';
 
-const TESTIMONIALS_DATA = [
-  {
-    name: 'MSG Developments',
-    role: 'Custom Home Builder',
-    text: "We have been purchasing fireplaces from Mainland fireplaces for quite some time now for all our custom home projects, and the experience has been outstanding from start to finish. The selection of fireplaces is extensive, the staff is incredibly knowledgeable, helping our clients choose the perfect model for any space. Installation is seamless, with a professional team ensuring everything is set up safely and efficiently. If you're looking for a reliable fireplace supplier with excellent products and customer service, we highly recommend Mainland Fireplaces.",
-  },
-  {
-    name: 'Steven Me',
-    role: 'Homeowner',
-    text: "Mainland Fireplaces did an amazing job at transforming our living room with a beautiful wall build-out to hold a large fireplace. They completed the look with a cement finish which looks fantastic. Very modern. I would highly recommend them.",
-  },
-  {
-    name: 'Melissa Fraser',
-    role: 'Homeowner',
-    text: "Mainland installed our fireplaces and has helped us with maintenance since. As someone who knows nothing about fireplaces they have helped answer questions on several occasions and provided great customer service since the installation. Absolutely recommend them for sales and service.",
-  },
-];
-
-// --- 2. CARD & MODAL COMPONENT ---
+// --- CARD & MODAL COMPONENT ---
 const TestimonialCard = ({ review }) => {
   const [isOpen, setIsOpen] = useState(false);
 
-  // Prevent scrolling when modal is open
   React.useEffect(() => {
     if (isOpen) {
       document.body.style.overflow = 'hidden';
@@ -37,27 +18,24 @@ const TestimonialCard = ({ review }) => {
 
   return (
     <>
-      {/* CARD */}
       <div
         onClick={() => setIsOpen(true)}
-        className='group relative bg-white border border-gray-100 p-8 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 cursor-pointer rounded-sm h-full flex flex-col'
+        className='group border border-primary relative bg-white border border-gray-100 p-8 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 cursor-pointer rounded-xl h-full flex flex-col'
       >
-        {/* Quote Icon */}
         <div className='absolute -top-5 left-8 w-10 h-10 bg-primary flex items-center justify-center shadow-lg transform group-hover:scale-110 transition-transform duration-300'>
           <Quote className='w-5 h-5 text-white' fill='currentColor' />
         </div>
 
         <div className='mt-6 mb-6 flex-1'>
-          {/* Truncated Text */}
           <p className='font-sans text-gray-500 leading-relaxed line-clamp-4 group-hover:text-gray-900 transition-colors'>
             "{review.text}"
           </p>
-          <span className='text-primary text-xs font-bold uppercase tracking-widest mt-4 inline-block opacity-0 translate-y-2 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300'>
+          <span className='text-primary text-xs font-bold uppercase tracking-widest mt-4 inline-block opacity-0 translate-y-2 opacity-100 group-hover:translate-y-0 transition-all duration-300'>
             Read Full Review →
           </span>
         </div>
 
-        <div className='border-t border-gray-100 pt-6 flex items-center justify-between'>
+        <div className='border-t border-gray-300 pt-6 flex items-center justify-between'>
           <div>
             <h4 className='font-heading text-lg text-gray-900 uppercase tracking-wide font-bold'>
               {review.name}
@@ -74,10 +52,9 @@ const TestimonialCard = ({ review }) => {
         </div>
       </div>
 
-      {/* MODAL POPUP - FIXED */}
+      {/* MODAL POPUP */}
       {isOpen && (
         <div className='fixed inset-0 z-[9999] flex items-center justify-center p-4'>
-          {/* Backdrop - Using inline style to ensure it works regardless of Tailwind config */}
           <div
             className='absolute inset-0 backdrop-blur-sm'
             style={{ backgroundColor: 'rgba(0, 0, 0, 0.7)' }}
@@ -87,17 +64,15 @@ const TestimonialCard = ({ review }) => {
             }}
           ></div>
 
-          {/* White Modal Content */}
-          <div className='relative bg-white w-full max-w-2xl p-10 md:p-14 shadow-2xl rounded-sm overflow-y-auto max-h-[70vh] animate-in fade-in zoom-in duration-300'>
+          <div className='relative bg-white w-full max-w-2xl p-10 md:p-14 shadow-2xl overflow-y-auto max-h-[70vh] animate-in fade-in zoom-in duration-300'>
             <button
               onClick={(e) => {
                 e.stopPropagation();
                 setIsOpen(false);
               }}
-              className='absolute top-4 right-4 p-2 text-gray-400 hover:text-primary hover:bg-gray-50 rounded-full transition-colors z-50'
+              className='absolute top-4 right-4 z-20 p-2 bg-gray-100 hover:bg-primary hover:text-white rounded-full transition-colors'
             >
-              {/* Ensure X is rendered */}
-              <X className='w-6 h-6' />
+              <X className='w-5 h-5' />
             </button>
 
             <div className='flex flex-col items-center text-center'>
@@ -129,7 +104,7 @@ const HomePage = () => {
 
   return (
     <>
-      {/* 1. HERO ACCORDION */}
+      {/* HERO ACCORDION */}
       <section className='relative w-full h-[100dvh] pt-[72px] flex flex-col md:flex-row bg-gray-900'>
         {SITE_DATA.categories.map((cat, index) => {
           const isActive = activeId === cat.id;
@@ -173,7 +148,6 @@ const HomePage = () => {
                     <button
                       onClick={(e) => {
                         e.stopPropagation();
-                        // Navigate to the products route
                         navigate('/products', { state: { category: cat.title } });
                       }}
                       className='flex items-center gap-3 bg-[#C8102E] text-white px-5 py-2 md:px-6 md:py-3 rounded-xs hover:bg-[#a00c24] transition-colors duration-300 shadow-lg w-max'
@@ -189,7 +163,7 @@ const HomePage = () => {
         })}
       </section>
 
-      {/* 2. NAPOLEON BRAND SPOTLIGHT */}
+      {/* NAPOLEON BRAND SPOTLIGHT */}
       <section className='w-full bg-primary text-white py-24 px-6 md:px-12 lg:px-24 overflow-hidden relative'>
         <div className='max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-16 relative z-10'>
           <div className='flex-1 space-y-8 animate-fade-in'>
@@ -217,16 +191,14 @@ const HomePage = () => {
             </p>
 
             <div className='pt-4'>
-              {/* Inside your Featured Brand / Napoleon Section */}
-<button 
-  // ADD THIS onClick:
-  onClick={() => navigate('/products', { state: { brand: 'Napoleon' } })}
-  
-  className='group bg-white text-primary px-8 py-4 uppercase font-bold tracking-widest text-xs rounded-xs hover:bg-secondary hover:text-white transition-all duration-300 shadow-xl flex items-center gap-3'
->
-  Explore Collection
-  <span className='group-hover:translate-x-1 transition-transform duration-300'>→</span>
-</button>
+              <button
+                onClick={() => navigate('/products', { state: { brand: 'Napoleon' } })}
+
+                className='group bg-white text-primary px-8 py-4 uppercase font-bold tracking-widest text-xs rounded-xl hover:bg-secondary hover:text-white transition-all duration-300 shadow-xl flex items-center gap-3'
+              >
+                Explore Collection
+                <span className='group-hover:translate-x-1 transition-transform duration-300'>→</span>
+              </button>
             </div>
           </div>
 
@@ -251,38 +223,7 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* 2. NAPOLEON BRAND SPOTLIGHT */}
-      {/* <section className='w-full bg-primary text-white py-24 px-6 md:px-12 lg:px-24 overflow-hidden relative'>
-        <div className='max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-16 relative z-10'>
-          <div className='flex-1 space-y-8'>
-            <div className='text-left mb-16 max-w-2xl mx-auto'>
-              <h2 className='font-heading text-4xl md:text-6xl uppercase text-white mb-6'>Featured Brand</h2>
-              <div className='w-30 h-1 bg-secondary mt-6'></div>
-            </div>
-
-            <img src='https://brand.napoleon.com/files/02f93c40-cdb6-3331-bf9f-7fde7f54f3c3?account_id=95993C08-D4A8-467C-935205C27AA83360&expiry=1765065600000&signature=BRVfMGOwSThCYc%2FATTFBfboWddck0v3yLC4v40BLCUtEYPi4Us1dzVZuzuqoDKIJfJzOGYd0oWGsMkH16sfDDA%3D%3D&version=a0b1ec4b' alt='Napoleon Logo' width={250} />
-
-            <p className='font-sans text-white text-s leading-relaxed max-w-xl'>
-              For over 40 years, Napoleon has led the way with innovative engineering and stunning design. From high-efficiency gas fireplaces to state-of-the-art electric models and premium outdoor grills, Napoleon products are built to last and designed to elevate your home's comfort and style.
-            </p>
-
-            <div className='flex gap-4 pt-4'>
-              <button className='bg-white text-primary px-8 py-4 uppercase font-bold tracking-widest text-sm rounded-full hover:bg-secondary hover:text-white transition-colors antialiased'>
-                Explore Napoleon Products
-              </button>
-            </div>
-          </div>
-
-          <div className='flex-1 relative'>
-            <div className='aspect-[4/3] bg-gray-800 rounded-xs overflow-hidden relative group shadow-2xl'>
-              <img src='https://images.unsplash.com/photo-1595846519845-68e298c2edd8?q=80&w=2070&auto=format&fit=crop' alt='Napoleon Grill' className='w-full h-full object-cover group-hover:scale-105 transition-transform duration-700' />
-              <div className='absolute inset-0 bg-gradient-to-tr from-gray-900 via-transparent to-transparent opacity-60'></div>
-            </div>
-          </div>
-        </div>
-      </section> */}
-
-      {/* 3. OUTDOOR FIRE FEATURES SPOTLIGHT */}
+      {/* OUTDOOR FIRE FEATURES SPOTLIGHT */}
       <section className='w-full py-24 px-6 md:px-12 lg:px-24 bg-white border-b border-gray-100'>
         <div className='max-w-7xl mx-auto'>
           <div className='text-center mb-16 max-w-3xl mx-auto'>
@@ -297,10 +238,6 @@ const HomePage = () => {
             <h2 className='font-heading text-5xl md:text-7xl uppercase text-secondary leading-none mb-6'>
               Extend <span className='text-primary'>The Season</span>
             </h2>
-
-            {/* <p className='font-sans text-gray-500 text-lg leading-relaxed'>
-              Bring warmth and atmosphere to your backyard year-round with our curated collection of outdoor fire features.
-            </p> */}
           </div>
 
           <div className='grid grid-cols-1 md:grid-cols-3 gap-8'>
@@ -335,7 +272,7 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* 4. BRANDS CAROUSEL */}
+      {/* BRANDS CAROUSEL */}
       <section className='w-full py-24 bg-primary overflow-hidden relative isolate'>
         <div className='max-w-7xl mx-auto px-6 mb-16 text-center'>
           <div className='flex items-center justify-center gap-4 mb-4'>
@@ -373,7 +310,7 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* 5. TESTIMONIALS SECTION */}
+      {/* TESTIMONIALS SECTION */}
       <section className='w-full py-24 bg-white relative border-b border-gray-100'>
         <div className='max-w-7xl mx-auto px-6 relative z-10'>
 
@@ -391,7 +328,7 @@ const HomePage = () => {
           </div>
 
           <div className='grid grid-cols-1 md:grid-cols-3 gap-8'>
-            {TESTIMONIALS_DATA.map((review, index) => (
+            {SITE_DATA.testimonials.map((review, index) => (
               <TestimonialCard key={index} review={review} />
             ))}
           </div>

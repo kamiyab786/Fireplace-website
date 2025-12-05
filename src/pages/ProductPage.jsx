@@ -72,7 +72,7 @@ const ProductModal = ({ product, onClose }) => {
   return ReactDOM.createPortal(
     <div className='fixed inset-0 z-[9999] flex items-center justify-center p-4 animate-in fade-in duration-200'>
       <div className='absolute inset-0 bg-secondary/90 backdrop-blur-sm' onClick={onClose}></div>
-      <div className='relative bg-white w-full max-w-4xl max-h-[90vh] overflow-y-auto rounded-xl shadow-2xl flex flex-col md:flex-row overflow-hidden animate-in zoom-in-95 duration-300'>
+      <div className='relative bg-primary w-full max-w-4xl max-h-[90vh] overflow-y-auto rounded-xl shadow-2xl flex flex-col md:flex-row overflow-hidden animate-in zoom-in-95 duration-300'>
         <button onClick={onClose} className='absolute top-4 right-4 z-20 p-2 bg-gray-100 hover:bg-primary hover:text-white rounded-full transition-colors'>
           <X className='w-5 h-5' />
         </button>
@@ -88,7 +88,7 @@ const ProductModal = ({ product, onClose }) => {
           {product.images && product.images.length > 1 && (
             <div className='flex gap-2 overflow-x-auto pt-2 pb-2 w-full justify-center custom-scrollbar'>
               {product.images.map((img, idx) => (
-                <button key={idx} onClick={() => setActiveImage(idx)} className={`w-14 h-14 border-2 rounded-sm overflow-hidden flex-shrink-0 transition-all ${activeImage === idx ? 'border-white' : 'border-primary hover:border-gray-600 opacity-70 hover:opacity-100'}`}>
+                <button key={idx} onClick={() => setActiveImage(idx)} className={`w-14 h-14 border-2 rounded-sm overflow-hidden flex-shrink-0 transition-all ${activeImage === idx ? 'border-white' : 'border-primary hover:border-white opacity-70 hover:opacity-100'}`}>
                   <img src={img} alt="" className='w-full h-full object-cover' />
                 </button>
               ))}
